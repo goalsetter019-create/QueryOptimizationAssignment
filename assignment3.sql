@@ -151,7 +151,7 @@ CREATE TABLE resource_allocation (
         REFERENCES aid_organization (org_id)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
-COMMIT;
+
 -- -----------------------------------------------------------
 -- POPULATE TABLES WITH DATA
 -- -----------------------------------------------------------
@@ -235,7 +235,7 @@ IGNORE 1 ROWS
 (allocation_id, site_id, org_id, resource_type, @raw_date, quantity, unit_value, total_value)
 SET allocation_date = STR_TO_DATE(TRIM(@raw_date), '%d/%m/%Y');
 
-
+COMMIT;
 
 -- -----------------------------------------------------------
 -- VIEW POPULATED TABLES WITH DATA
@@ -247,6 +247,71 @@ SELECT * FROM incident_report;
 SELECT * FROM site;
 SELECT * FROM relief_center;
 SELECT * FROM cash_donation;
+
+-- -------------------------------------------------------------------------------
+-- QUERY ANALYSIS
+-- -------------------------------------------------------------------------------
+
+-- QUERY 1: LEVEL 5 DAMAGED SITES IN WESTMORELAND PARISH
+-- ═══════════════════════════════════════════════════════════════════════════════
+-- Finds all communities in Westmoreland that experienced level 5 hurricane damage 
+-- and sums up the total estimated repair cost per community. It helps us see which 
+-- parts of the parish were most heavily affected and how much funding would be needed 
+-- for rebuilding efforts. 
+-- Sort: Total repair cost (descending)
+
+
+
+-- QUERY 2: TOP 5 AID ORGANIZATIONS SUPPORTING SITES WITHOUT POWER
+-- ═══════════════════════════════════════════════════════════════════════════════
+-- Identifies the top five aid organizations that have provided the highest total 
+-- dollar value of resources to sites that are still without electricity. 
+-- It highlights which organizations are leading the ongoing recovery efforts in 
+-- areas where basic utilities haven’t been restored. 
+-- Sort: Total resource value (descending)
+
+
+
+-- QUERY 3: ROOFING MATERIAL SHORTAGE ANALYSIS BY PARISH
+-- ═══════════════════════════════════════════════════════════════════════════════
+-- Compares how many roofing materials were allocated to each parish against the
+-- total number of damaged sites in that parish. Here we are checking whether 
+-- resource distribution has been fair. If the total roofing materials allocated 
+-- are less than the number of sites, the parish likely has a shortage, meaning 
+-- reconstruction will be delayed. 
+-- Sort: Shortage size (ascending - biggest shortages first)
+
+
+
+-- QUERY 4: HIGH-SUPPORT DONORS 
+-- ═══════════════════════════════════════════════════════════════════════════════
+-- Focuses on aid organizations that supported over 100 damaged sites through 
+-- resource allocation, then calculates their average cash donation amount. 
+-- The goal is to understand whether those organizations directly helping on the 
+-- ground are also the biggest financial donors. 
+-- Sort: Average donation (descending)
+
+
+
+
+-- QUERY 5: CORNWALL COUNTY VS REST OF JAMAICA
+-- ═══════════════════════════════════════════════════════════════════════════════
+-- Compares the county of Cornwall to the rest of the island in terms of total 
+-- repair cost, number of damaged sites, relief centre capacity, and population 
+-- coverage. It’s used to measure how much strain Cornwall is under after the 
+-- hurricane, thus asking, “Is Cornwall dealing with more damage relative to its 
+-- available relief resources and population size?” By grouping data by county, 
+-- we can see whether the western region’s infrastructure and shelters are 
+-- sufficient or if additional national support is needed.
+-- Sort: Total repair cost (descending)
+
+
+
+
+
+-- -----------------------------------------------------------
+-- QUERY OPTIMIZATION
+-- -----------------------------------------------------------
 
 
 

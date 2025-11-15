@@ -1,0 +1,456 @@
+report_id,community_id,report_date,category,severity_level,households_affected,statuses
+10001,104,3/11/2025,Water Contamination,3,146,In Progress
+10002,107,5/11/2025,Flooding,4,110,Reported
+10003,103,7/11/2025,Wind Damage,4,124,Reported
+10004,116,28/10/2025,Wind Damage,3,104,In Progress
+10005,117,28/10/2025,Flooding,4,154,In Progress
+10006,114,4/11/2025,Wind Damage,5,185,Verified
+10007,108,10/11/2025,Wind Damage,4,112,Verified
+10008,107,28/10/2025,Landslide,5,201,Resolved
+10009,121,27/10/2025,Road Blockage,2,93,Pending
+10010,101,7/11/2025,Flooding,5,199,In Progress
+10011,144,1/11/2025,Flooding,2,70,Resolved
+10012,125,28/10/2025,Wind Damage,4,152,Resolved
+10013,135,30/10/2025,Flooding,2,55,Resolved
+10014,106,11/11/2025,Water Contamination,4,116,Reported
+10015,132,27/10/2025,Landslide,3,64,Resolved
+10016,129,5/11/2025,Water Contamination,3,128,In Progress
+10017,106,2/11/2025,Wind Damage,5,172,Resolved
+10018,135,1/11/2025,Building Collapse,2,66,In Progress
+10019,128,29/10/2025,Road Blockage,3,144,In Progress
+10020,128,27/10/2025,Building Collapse,4,133,Resolved
+10021,111,6/11/2025,Landslide,4,137,Verified
+10022,102,3/11/2025,Wind Damage,4,175,In Progress
+10023,102,29/10/2025,Flooding,4,164,Resolved
+10024,113,11/11/2025,Power Outage,3,112,Reported
+10025,143,9/11/2025,Wind Damage,2,86,Reported
+10026,110,4/11/2025,Fire,5,216,In Progress
+10027,108,10/11/2025,Fire,4,86,Verified
+10028,105,29/10/2025,Water Contamination,5,232,In Progress
+10029,101,29/10/2025,Building Collapse,5,228,In Progress
+10030,119,29/10/2025,Bridge Collapse,3,104,Resolved
+10031,103,3/11/2025,Medical Emergency,3,105,In Progress
+10032,118,6/11/2025,Water Contamination,3,111,Verified
+10033,103,11/11/2025,Water Contamination,3,107,Verified
+10034,134,7/11/2025,Landslide,1,46,In Progress
+10035,120,2/11/2025,Landslide,4,151,In Progress
+10036,131,10/11/2025,Power Outage,2,55,Verified
+10037,113,5/11/2025,Road Blockage,3,100,Verified
+10038,123,28/10/2025,Wind Damage,4,153,Resolved
+10039,118,10/11/2025,Landslide,3,91,Verified
+10040,104,1/11/2025,Building Collapse,4,142,Resolved
+10041,127,27/10/2025,Wind Damage,4,89,Resolved
+10042,101,5/11/2025,Landslide,4,192,Verified
+10043,112,5/11/2025,Flooding,5,220,In Progress
+10044,119,6/11/2025,Flooding,3,79,In Progress
+10045,124,4/11/2025,Flooding,3,107,Resolved
+10046,118,28/10/2025,Landslide,3,107,Resolved
+10047,123,31/10/2025,Fire,2,68,Verified
+10048,102,28/10/2025,Wind Damage,5,184,Resolved
+10049,117,1/11/2025,Power Outage,4,194,Verified
+10050,109,11/11/2025,Wind Damage,4,124,Reported
+10051,109,8/11/2025,Flooding,4,140,Reported
+10052,115,7/11/2025,Water Contamination,4,145,Reported
+10053,101,4/11/2025,Building Collapse,5,144,Pending
+10054,104,11/11/2025,Building Collapse,4,135,Reported
+10055,110,10/11/2025,Power Outage,4,165,Verified
+10056,125,28/10/2025,Flooding,3,90,Resolved
+10057,104,28/10/2025,Building Collapse,5,177,In Progress
+10058,114,2/11/2025,Road Blockage,4,84,Resolved
+10059,111,1/11/2025,Road Blockage,5,180,In Progress
+10060,123,30/10/2025,Wind Damage,4,117,In Progress
+10061,109,6/11/2025,Power Outage,3,99,Verified
+10062,111,11/11/2025,Wind Damage,4,88,Verified
+10063,122,11/11/2025,Flooding,3,108,Reported
+10064,138,31/10/2025,Fire,1,37,Resolved
+10065,112,28/10/2025,Building Collapse,5,240,In Progress
+10066,130,29/10/2025,Landslide,3,100,In Progress
+10067,104,8/11/2025,Power Outage,3,95,Verified
+10068,115,5/11/2025,Bridge Collapse,4,117,Reported
+10069,126,8/11/2025,Road Blockage,3,147,Reported
+10070,141,1/11/2025,Flooding,3,141,In Progress
+10071,113,4/11/2025,Building Collapse,4,130,In Progress
+10072,128,7/11/2025,Flooding,3,109,In Progress
+10073,123,29/10/2025,Landslide,4,167,Resolved
+10074,138,9/11/2025,Flooding,2,56,In Progress
+10075,121,27/10/2025,Power Outage,4,177,Resolved
+10076,115,1/11/2025,Wind Damage,4,151,In Progress
+10077,136,10/11/2025,Bridge Collapse,3,121,Verified
+10078,132,30/10/2025,Wind Damage,4,103,Resolved
+10079,121,9/11/2025,Bridge Collapse,3,128,In Progress
+10080,114,31/10/2025,Road Blockage,4,143,Resolved
+10081,102,9/11/2025,Building Collapse,5,210,In Progress
+10082,125,9/11/2025,Medical Emergency,2,60,Verified
+10083,112,11/11/2025,Power Outage,5,150,Verified
+10084,129,4/11/2025,Water Contamination,2,72,In Progress
+10085,118,6/11/2025,Water Contamination,2,43,Reported
+10086,128,2/11/2025,Fire,4,113,Pending
+10087,139,7/11/2025,Road Blockage,2,86,In Progress
+10088,130,6/11/2025,Wind Damage,3,138,Verified
+10089,129,11/11/2025,Fire,3,92,Reported
+10090,128,28/10/2025,Medical Emergency,3,124,Resolved
+10091,137,29/10/2025,Medical Emergency,2,50,Resolved
+10092,109,7/11/2025,Flooding,4,128,Reported
+10093,134,31/10/2025,Building Collapse,2,66,Verified
+10094,133,5/11/2025,Wind Damage,3,87,Verified
+10095,103,30/10/2025,Medical Emergency,4,151,Resolved
+10096,135,10/11/2025,Building Collapse,1,24,Reported
+10097,105,8/11/2025,Power Outage,4,148,In Progress
+10098,110,9/11/2025,Bridge Collapse,4,192,Verified
+10099,102,9/11/2025,Medical Emergency,4,159,In Progress
+10100,110,28/10/2025,Road Blockage,5,157,Resolved
+10101,108,1/11/2025,Power Outage,3,96,Pending
+10102,106,5/11/2025,Wind Damage,5,140,Reported
+10103,123,29/10/2025,Bridge Collapse,4,163,Resolved
+10104,107,8/11/2025,Road Blockage,5,143,In Progress
+10105,113,10/11/2025,Building Collapse,4,110,Verified
+10106,137,30/10/2025,Bridge Collapse,1,24,Resolved
+10107,133,31/10/2025,Bridge Collapse,3,132,In Progress
+10108,104,28/10/2025,Wind Damage,4,157,Resolved
+10109,107,29/10/2025,Power Outage,3,89,Resolved
+10110,114,29/10/2025,Road Blockage,5,158,Resolved
+10111,141,4/11/2025,Flooding,2,55,In Progress
+10112,122,4/11/2025,Power Outage,4,170,In Progress
+10113,133,7/11/2025,Water Contamination,3,133,In Progress
+10114,107,31/10/2025,Wind Damage,4,185,In Progress
+10115,126,27/10/2025,Bridge Collapse,2,59,Resolved
+10116,127,5/11/2025,Road Blockage,3,87,Reported
+10117,140,29/10/2025,Fire,1,44,Resolved
+10118,128,9/11/2025,Bridge Collapse,4,177,Verified
+10119,111,29/10/2025,Bridge Collapse,4,112,Resolved
+10120,139,3/11/2025,Medical Emergency,3,142,Resolved
+10121,113,29/10/2025,Wind Damage,5,113,In Progress
+10122,104,5/11/2025,Flooding,4,189,In Progress
+10123,124,29/10/2025,Flooding,4,126,In Progress
+10124,126,10/11/2025,Flooding,3,122,Verified
+10125,113,31/10/2025,Flooding,5,135,In Progress
+10126,110,3/11/2025,Medical Emergency,5,233,Verified
+10127,115,9/11/2025,Wind Damage,4,154,In Progress
+10128,101,31/10/2025,Water Contamination,4,123,Resolved
+10129,124,9/11/2025,Road Blockage,3,75,Reported
+10130,112,28/10/2025,Medical Emergency,3,138,Pending
+10131,131,7/11/2025,Bridge Collapse,2,91,Verified
+10132,135,3/11/2025,Building Collapse,1,22,Resolved
+10133,116,3/11/2025,Building Collapse,3,71,Resolved
+10134,113,30/10/2025,Flooding,4,87,Resolved
+10135,122,5/11/2025,Power Outage,3,135,Verified
+10136,101,5/11/2025,Landslide,4,118,Verified
+10137,133,7/11/2025,Wind Damage,3,139,In Progress
+10138,111,5/11/2025,Water Contamination,4,148,Verified
+10139,114,5/11/2025,Flooding,4,140,In Progress
+10140,121,27/10/2025,Road Blockage,3,124,Pending
+10141,120,10/11/2025,Wind Damage,3,98,Reported
+10142,111,4/11/2025,Wind Damage,4,150,In Progress
+10143,143,2/11/2025,Wind Damage,2,75,In Progress
+10144,112,30/10/2025,Wind Damage,5,151,Pending
+10145,136,4/11/2025,Wind Damage,3,85,Pending
+10146,128,1/11/2025,Wind Damage,3,119,In Progress
+10147,113,1/11/2025,Medical Emergency,5,158,In Progress
+10148,115,1/11/2025,Flooding,4,135,In Progress
+10149,124,28/10/2025,Bridge Collapse,3,99,Resolved
+10150,118,8/11/2025,Flooding,4,140,Verified
+10151,118,8/11/2025,Wind Damage,3,88,Verified
+10152,103,4/11/2025,Power Outage,4,96,Resolved
+10153,119,5/11/2025,Landslide,4,149,In Progress
+10154,111,2/11/2025,Medical Emergency,5,164,Resolved
+10155,123,8/11/2025,Flooding,3,124,Reported
+10156,101,4/11/2025,Fire,3,136,Resolved
+10157,103,6/11/2025,Wind Damage,5,124,Verified
+10158,111,7/11/2025,Flooding,5,187,In Progress
+10159,114,27/10/2025,Flooding,4,95,In Progress
+10160,113,29/10/2025,Building Collapse,4,146,Resolved
+10161,111,9/11/2025,Water Contamination,3,101,Verified
+10162,114,8/11/2025,Flooding,4,147,Reported
+10163,124,3/11/2025,Medical Emergency,2,55,In Progress
+10164,125,29/10/2025,Fire,3,84,Resolved
+10165,126,9/11/2025,Wind Damage,4,170,Reported
+10166,131,2/11/2025,Wind Damage,3,145,Resolved
+10167,132,31/10/2025,Flooding,3,70,In Progress
+10168,108,5/11/2025,Landslide,5,174,In Progress
+10169,117,3/11/2025,Wind Damage,3,82,In Progress
+10170,113,4/11/2025,Flooding,5,171,In Progress
+10171,103,4/11/2025,Flooding,5,105,Resolved
+10172,102,30/10/2025,Flooding,5,246,Resolved
+10173,103,11/11/2025,Water Contamination,5,180,Reported
+10174,106,4/11/2025,Power Outage,5,173,In Progress
+10175,137,7/11/2025,Building Collapse,1,31,Reported
+10176,113,5/11/2025,Building Collapse,5,170,In Progress
+10177,130,5/11/2025,Power Outage,2,80,Verified
+10178,139,8/11/2025,Bridge Collapse,3,109,Verified
+10179,106,2/11/2025,Medical Emergency,4,125,Verified
+10180,107,10/11/2025,Power Outage,4,123,Verified
+10181,116,7/11/2025,Road Blockage,2,68,Reported
+10182,142,31/10/2025,Wind Damage,3,149,In Progress
+10183,103,11/11/2025,Wind Damage,5,185,In Progress
+10184,110,5/11/2025,Flooding,5,252,In Progress
+10185,106,4/11/2025,Road Blockage,5,133,Pending
+10186,104,31/10/2025,Flooding,5,197,Verified
+10187,102,6/11/2025,Fire,3,111,Reported
+10188,112,6/11/2025,Wind Damage,4,165,Verified
+10189,144,2/11/2025,Flooding,2,55,In Progress
+10190,133,28/10/2025,Building Collapse,3,89,In Progress
+10191,131,2/11/2025,Road Blockage,2,63,In Progress
+10192,117,27/10/2025,Wind Damage,3,139,Resolved
+10193,126,8/11/2025,Flooding,3,135,In Progress
+10194,112,30/10/2025,Building Collapse,5,214,Resolved
+10195,114,10/11/2025,Road Blockage,3,83,Verified
+10196,107,7/11/2025,Flooding,5,178,In Progress
+10197,138,7/11/2025,Power Outage,3,148,Verified
+10198,136,29/10/2025,Fire,1,46,In Progress
+10199,144,5/11/2025,Medical Emergency,2,75,In Progress
+10200,132,30/10/2025,Road Blockage,3,106,Resolved
+10201,124,27/10/2025,Medical Emergency,3,116,Resolved
+10202,142,27/10/2025,Power Outage,2,86,In Progress
+10203,117,1/11/2025,Medical Emergency,3,97,Resolved
+10204,101,29/10/2025,Flooding,5,181,Pending
+10205,115,2/11/2025,Building Collapse,2,47,Verified
+10206,138,3/11/2025,Wind Damage,2,58,In Progress
+10207,116,4/11/2025,Fire,2,47,Verified
+10208,113,1/11/2025,Flooding,5,117,In Progress
+10209,110,6/11/2025,Water Contamination,4,198,In Progress
+10210,142,28/10/2025,Flooding,2,69,Resolved
+10211,111,3/11/2025,Flooding,4,125,Resolved
+10212,106,3/11/2025,Flooding,4,110,In Progress
+10213,109,27/10/2025,Flooding,4,141,Resolved
+10214,111,8/11/2025,Building Collapse,4,128,In Progress
+10215,123,10/11/2025,Fire,3,124,Reported
+10216,102,31/10/2025,Water Contamination,4,174,Resolved
+10217,122,7/11/2025,Road Blockage,4,111,In Progress
+10218,137,4/11/2025,Bridge Collapse,2,77,In Progress
+10219,108,2/11/2025,Power Outage,4,121,In Progress
+10220,105,11/11/2025,Road Blockage,3,88,Reported
+10221,108,11/11/2025,Power Outage,4,118,Verified
+10222,110,30/10/2025,Flooding,4,139,Resolved
+10223,106,30/10/2025,Fire,4,111,Resolved
+10224,144,2/11/2025,Power Outage,2,56,Resolved
+10225,123,10/11/2025,Building Collapse,3,131,Reported
+10226,104,27/10/2025,Bridge Collapse,5,201,Resolved
+10227,112,2/11/2025,Building Collapse,4,178,Verified
+10228,124,2/11/2025,Power Outage,3,104,Resolved
+10229,107,31/10/2025,Flooding,4,135,Resolved
+10230,130,8/11/2025,Flooding,4,152,Verified
+10231,129,7/11/2025,Building Collapse,4,179,In Progress
+10232,139,10/11/2025,Medical Emergency,1,44,Reported
+10233,136,3/11/2025,Power Outage,2,87,In Progress
+10234,133,6/11/2025,Water Contamination,3,150,In Progress
+10235,141,31/10/2025,Power Outage,1,47,In Progress
+10236,112,2/11/2025,Wind Damage,4,112,Verified
+10237,116,2/11/2025,Building Collapse,2,58,Resolved
+10238,115,31/10/2025,Water Contamination,2,66,In Progress
+10239,112,31/10/2025,Power Outage,4,136,Pending
+10240,143,30/10/2025,Flooding,2,100,Resolved
+10241,119,30/10/2025,Medical Emergency,3,90,Resolved
+10242,139,28/10/2025,Fire,2,66,In Progress
+10243,101,10/11/2025,Wind Damage,4,125,Reported
+10244,126,4/11/2025,Fire,3,91,Resolved
+10245,109,8/11/2025,Water Contamination,4,190,In Progress
+10246,131,4/11/2025,Fire,2,62,In Progress
+10247,122,7/11/2025,Flooding,3,115,In Progress
+10248,132,29/10/2025,Wind Damage,4,130,Resolved
+10249,142,30/10/2025,Wind Damage,2,56,In Progress
+10250,119,10/11/2025,Flooding,4,113,In Progress
+10251,110,9/11/2025,Building Collapse,4,115,Reported
+10252,141,7/11/2025,Flooding,2,97,Verified
+10253,123,30/10/2025,Landslide,2,93,Resolved
+10254,132,2/11/2025,Flooding,3,101,In Progress
+10255,132,1/11/2025,Wind Damage,4,95,Resolved
+10256,111,6/11/2025,Wind Damage,5,188,Verified
+10257,125,30/10/2025,Building Collapse,4,120,Resolved
+10258,132,5/11/2025,Flooding,4,154,Verified
+10259,116,2/11/2025,Medical Emergency,3,66,Verified
+10260,120,28/10/2025,Power Outage,3,149,Resolved
+10261,122,6/11/2025,Power Outage,3,83,In Progress
+10262,116,29/10/2025,Wind Damage,4,97,Resolved
+10263,101,3/11/2025,Medical Emergency,3,141,Verified
+10264,103,10/11/2025,Power Outage,3,106,Reported
+10265,131,5/11/2025,Water Contamination,2,80,In Progress
+10266,114,8/11/2025,Bridge Collapse,5,181,Verified
+10267,109,1/11/2025,Fire,4,171,Pending
+10268,106,8/11/2025,Wind Damage,5,189,In Progress
+10269,112,1/11/2025,Power Outage,3,105,In Progress
+10270,114,30/10/2025,Fire,4,137,Resolved
+10271,110,29/10/2025,Flooding,4,140,Resolved
+10272,127,7/11/2025,Water Contamination,3,82,Verified
+10273,109,30/10/2025,Bridge Collapse,3,138,In Progress
+10274,108,27/10/2025,Building Collapse,4,123,Resolved
+10275,136,4/11/2025,Water Contamination,2,74,Resolved
+10276,129,3/11/2025,Wind Damage,3,99,Verified
+10277,130,1/11/2025,Bridge Collapse,2,84,Verified
+10278,109,5/11/2025,Wind Damage,4,192,In Progress
+10279,113,10/11/2025,Flooding,5,182,In Progress
+10280,109,2/11/2025,Wind Damage,5,142,Resolved
+10281,124,6/11/2025,Medical Emergency,2,50,In Progress
+10282,107,28/10/2025,Road Blockage,5,185,Resolved
+10283,138,3/11/2025,Flooding,2,65,In Progress
+10284,114,30/10/2025,Flooding,4,135,Resolved
+10285,105,2/11/2025,Wind Damage,4,113,Pending
+10286,142,27/10/2025,Wind Damage,3,89,Resolved
+10287,112,5/11/2025,Wind Damage,5,183,Verified
+10288,131,4/11/2025,Road Blockage,3,94,Resolved
+10289,104,31/10/2025,Medical Emergency,3,95,Resolved
+10290,134,7/11/2025,Flooding,3,114,Reported
+10291,110,27/10/2025,Flooding,4,188,In Progress
+10292,104,11/11/2025,Power Outage,4,146,Reported
+10293,107,31/10/2025,Bridge Collapse,4,197,Verified
+10294,114,6/11/2025,Road Blockage,4,126,Reported
+10295,115,5/11/2025,Water Contamination,3,86,Reported
+10296,118,3/11/2025,Flooding,4,152,In Progress
+10297,140,3/11/2025,Water Contamination,2,92,In Progress
+10298,144,11/11/2025,Flooding,2,63,Verified
+10299,132,5/11/2025,Flooding,4,107,Verified
+10300,105,5/11/2025,Medical Emergency,4,196,Verified
+10301,135,7/11/2025,Power Outage,3,75,Reported
+10302,112,4/11/2025,Flooding,5,199,In Progress
+10303,119,28/10/2025,Flooding,3,89,In Progress
+10304,120,10/11/2025,Medical Emergency,3,142,Reported
+10305,119,8/11/2025,Flooding,3,87,Verified
+10306,121,1/11/2025,Wind Damage,4,139,In Progress
+10307,127,11/11/2025,Bridge Collapse,2,77,Reported
+10308,143,7/11/2025,Medical Emergency,1,40,Reported
+10309,111,6/11/2025,Flooding,5,161,In Progress
+10310,136,3/11/2025,Wind Damage,2,67,Verified
+10311,104,1/11/2025,Flooding,5,165,Pending
+10312,129,1/11/2025,Water Contamination,2,73,In Progress
+10313,137,3/11/2025,Bridge Collapse,2,53,In Progress
+10314,105,28/10/2025,Road Blockage,4,162,Resolved
+10315,114,31/10/2025,Flooding,4,87,In Progress
+10316,101,1/11/2025,Power Outage,4,160,Resolved
+10317,106,10/11/2025,Landslide,3,66,Verified
+10318,105,3/11/2025,Flooding,5,245,In Progress
+10319,119,9/11/2025,Landslide,2,60,Reported
+10320,109,5/11/2025,Fire,4,135,In Progress
+10321,126,5/11/2025,Power Outage,3,98,Reported
+10322,110,10/11/2025,Flooding,5,229,Reported
+10323,107,4/11/2025,Flooding,5,243,Pending
+10324,138,9/11/2025,Flooding,3,124,Reported
+10325,125,1/11/2025,Landslide,2,53,In Progress
+10326,125,11/11/2025,Power Outage,2,60,Reported
+10327,127,27/10/2025,Fire,4,131,Pending
+10328,120,11/11/2025,Building Collapse,3,118,Reported
+10329,127,30/10/2025,Bridge Collapse,3,109,Resolved
+10330,105,9/11/2025,Power Outage,3,88,Reported
+10331,127,28/10/2025,Bridge Collapse,2,43,Pending
+10332,120,31/10/2025,Wind Damage,3,106,In Progress
+10333,125,8/11/2025,Wind Damage,3,82,In Progress
+10334,124,31/10/2025,Flooding,3,72,In Progress
+10335,126,8/11/2025,Wind Damage,3,125,Verified
+10336,134,10/11/2025,Wind Damage,2,63,Verified
+10337,104,1/11/2025,Flooding,4,174,In Progress
+10338,107,6/11/2025,Building Collapse,5,244,In Progress
+10339,108,31/10/2025,Wind Damage,4,108,In Progress
+10340,110,31/10/2025,Water Contamination,3,98,In Progress
+10341,102,29/10/2025,Flooding,5,225,Resolved
+10342,125,10/11/2025,Water Contamination,3,116,In Progress
+10343,114,11/11/2025,Wind Damage,4,146,In Progress
+10344,138,1/11/2025,Fire,1,28,Resolved
+10345,109,7/11/2025,Wind Damage,5,138,In Progress
+10346,127,5/11/2025,Building Collapse,2,42,In Progress
+10347,124,7/11/2025,Landslide,3,80,In Progress
+10348,103,5/11/2025,Power Outage,4,154,In Progress
+10349,110,27/10/2025,Bridge Collapse,5,148,Resolved
+10350,114,28/10/2025,Water Contamination,5,120,Pending
+10351,101,2/11/2025,Landslide,3,141,In Progress
+10352,107,27/10/2025,Wind Damage,4,174,Resolved
+10353,121,5/11/2025,Landslide,2,95,Verified
+10354,121,9/11/2025,Flooding,3,103,Verified
+10355,116,10/11/2025,Medical Emergency,4,132,Verified
+10356,118,1/11/2025,Flooding,4,107,In Progress
+10357,120,31/10/2025,Water Contamination,3,88,Resolved
+10358,131,30/10/2025,Power Outage,3,82,Resolved
+10359,130,8/11/2025,Building Collapse,3,92,In Progress
+10360,108,29/10/2025,Power Outage,4,149,Resolved
+10361,111,10/11/2025,Wind Damage,5,109,Reported
+10362,110,2/11/2025,Flooding,4,122,Resolved
+10363,105,9/11/2025,Wind Damage,4,110,Reported
+10364,101,10/11/2025,Wind Damage,5,152,Reported
+10365,129,2/11/2025,Flooding,4,163,Verified
+10366,105,5/11/2025,Flooding,5,139,Reported
+10367,125,28/10/2025,Road Blockage,2,64,In Progress
+10368,117,4/11/2025,Fire,2,81,Resolved
+10369,104,11/11/2025,Medical Emergency,4,163,Reported
+10370,101,3/11/2025,Building Collapse,5,212,Resolved
+10371,102,8/11/2025,Building Collapse,4,156,Reported
+10372,121,11/11/2025,Road Blockage,3,134,Reported
+10373,139,29/10/2025,Medical Emergency,1,41,Resolved
+10374,126,5/11/2025,Wind Damage,4,129,Verified
+10375,102,2/11/2025,Medical Emergency,3,116,In Progress
+10376,113,10/11/2025,Road Blockage,4,142,Verified
+10377,130,6/11/2025,Flooding,4,178,Reported
+10378,113,31/10/2025,Road Blockage,3,102,Resolved
+10379,104,8/11/2025,Wind Damage,5,169,Reported
+10380,110,4/11/2025,Fire,3,135,In Progress
+10381,130,6/11/2025,Bridge Collapse,3,102,Reported
+10382,119,8/11/2025,Landslide,3,66,In Progress
+10383,120,3/11/2025,Fire,3,125,Verified
+10384,122,8/11/2025,Fire,3,139,In Progress
+10385,140,8/11/2025,Landslide,3,82,Verified
+10386,111,27/10/2025,Wind Damage,5,155,In Progress
+10387,131,1/11/2025,Landslide,2,80,In Progress
+10388,144,9/11/2025,Flooding,3,87,Reported
+10389,106,31/10/2025,Road Blockage,4,138,Verified
+10390,137,30/10/2025,Fire,1,28,In Progress
+10391,111,29/10/2025,Flooding,4,95,Resolved
+10392,142,7/11/2025,Water Contamination,1,36,In Progress
+10393,122,7/11/2025,Wind Damage,3,124,Verified
+10394,111,5/11/2025,Road Blockage,4,139,In Progress
+10395,114,4/11/2025,Fire,4,123,Resolved
+10396,123,8/11/2025,Water Contamination,2,83,Verified
+10397,135,29/10/2025,Power Outage,1,33,Resolved
+10398,126,7/11/2025,Wind Damage,4,167,Verified
+10399,127,10/11/2025,Fire,4,98,Reported
+10400,105,11/11/2025,Power Outage,4,169,Reported
+10401,127,6/11/2025,Power Outage,3,87,In Progress
+10402,143,8/11/2025,Building Collapse,1,50,Reported
+10403,133,2/11/2025,Landslide,2,60,In Progress
+10404,112,3/11/2025,Fire,5,251,In Progress
+10405,106,2/11/2025,Power Outage,4,140,Resolved
+10406,124,6/11/2025,Flooding,4,155,In Progress
+10407,129,4/11/2025,Power Outage,3,109,In Progress
+10408,109,30/10/2025,Power Outage,4,159,Resolved
+10409,115,28/10/2025,Bridge Collapse,2,52,In Progress
+10410,130,8/11/2025,Wind Damage,3,134,Reported
+10411,130,29/10/2025,Flooding,4,111,Resolved
+10412,113,4/11/2025,Power Outage,4,101,Verified
+10413,129,10/11/2025,Bridge Collapse,2,75,Verified
+10414,132,31/10/2025,Flooding,3,115,Resolved
+10415,108,3/11/2025,Power Outage,4,85,In Progress
+10416,131,30/10/2025,Flooding,3,85,Pending
+10417,110,27/10/2025,Water Contamination,4,179,Resolved
+10418,113,30/10/2025,Building Collapse,4,135,Resolved
+10419,142,8/11/2025,Water Contamination,2,72,In Progress
+10420,107,9/11/2025,Water Contamination,4,146,Reported
+10421,144,11/11/2025,Road Blockage,2,59,Reported
+10422,104,2/11/2025,Power Outage,4,176,In Progress
+10423,128,10/11/2025,Wind Damage,3,88,In Progress
+10424,101,31/10/2025,Landslide,3,125,In Progress
+10425,126,6/11/2025,Building Collapse,2,83,Verified
+10426,125,2/11/2025,Power Outage,2,52,Resolved
+10427,106,5/11/2025,Power Outage,4,85,Reported
+10428,115,28/10/2025,Water Contamination,3,92,In Progress
+10429,143,8/11/2025,Road Blockage,2,68,Reported
+10430,139,2/11/2025,Building Collapse,2,77,Verified
+10431,120,3/11/2025,Fire,3,109,Resolved
+10432,128,5/11/2025,Medical Emergency,2,70,Reported
+10433,128,1/11/2025,Water Contamination,3,151,Pending
+10434,137,30/10/2025,Fire,3,109,Resolved
+10435,109,10/11/2025,Flooding,4,167,Reported
+10436,116,4/11/2025,Medical Emergency,3,86,In Progress
+10437,140,10/11/2025,Flooding,2,56,Reported
+10438,103,4/11/2025,Building Collapse,5,115,Pending
+10439,106,1/11/2025,Medical Emergency,5,131,Resolved
+10440,104,28/10/2025,Power Outage,5,166,Resolved
+10441,109,27/10/2025,Medical Emergency,4,158,In Progress
+10442,109,1/11/2025,Wind Damage,4,131,Verified
+10443,107,7/11/2025,Wind Damage,4,185,Reported
+10444,116,29/10/2025,Power Outage,3,64,In Progress
+10445,115,28/10/2025,Fire,2,64,Resolved
+10446,105,27/10/2025,Fire,4,125,Resolved
+10447,109,30/10/2025,Road Blockage,5,249,In Progress
+10448,108,9/11/2025,Power Outage,4,129,Reported
+10449,107,7/11/2025,Flooding,4,181,Reported
+10450,102,10/11/2025,Water Contamination,4,119,Reported
+10451,117,3/11/2025,Bridge Collapse,2,74,Pending
+10452,108,8/11/2025,Wind Damage,4,127,In Progress
+10453,127,30/10/2025,Water Contamination,3,109,Resolved
+10454,132,30/10/2025,Landslide,2,62,Resolved
+10455,131,8/11/2025,Power Outage,3,100,In Progress

@@ -1,0 +1,873 @@
+center_id,parish_id,center_name,center_type,capacity,is_active
+30001,14,Aeolus Valley Primary School,Government School,6358,1
+30002,14,Airy Castle Primary School,Government School,1474,1
+30003,14,Barking Lodge Primary School,Government School,6103,1
+30004,14,Bath Primary & Junior High School,Government School,3576,0
+30005,14,Bethesda (Llandewey) Primary School,Government School,8707,0
+30006,14,Botany Bay Community Centre,Community Centre,4694,0
+30007,14,Cedar Valley Primary and Junior High,Government School,873,1
+30008,14,Dalvey Primary School,Government School,7747,1
+30009,14,Duckenfield Primary School,Government School,2074,0
+30010,14,Easington Primary School,Government School,7026,1
+30011,14,Font Hill Primary School,Government School,6613,0
+30012,14,Grants Pen Primary School,Government School,1267,0
+30013,14,11 Miles Community Centre,Community Centre,1282,0
+30014,14,Hayfield All Age School,Government School,8344,1
+30015,14,Jamaica Bible Church,Church,412,1
+30016,14,Mount Vernon Primary School,Government School,8520,0
+30017,14,Middleton Primary School,Government School,6122,1
+30018,14,Hillside Primary School,Government School,2658,0
+30019,14,Johnson Mountain All-Age School,Government School,2043,0
+30020,14,Johnstown Primary School,Government School,1174,1
+30021,14,Lyssons Primary School,Government School,4165,1
+30022,14,Minto Primary School,Government School,8540,1
+30023,14,Morant Bay Primary School,Government School,3615,1
+30024,14,Old Pera Primary School,Government School,2491,1
+30025,14,Paul Bogle Junior High School,Government School,8442,0
+30026,14,Pear Tree River Primary School,Government School,6978,0
+30027,14,Penlyne Castle Primary School,Government School,9929,1
+30028,14,Port Morant Primary and Junior High School,Government School,9904,0
+30029,14,Prospect Primary School,Government School,2151,1
+30030,14,Richmond Gap Primary School,Government School,9010,1
+30031,14,Robert Lightbourne High School,Government School,5594,1
+30032,14,Rowlandsfield Primary School,Government School,8561,0
+30033,14,Seaforth Primary School,Government School,4945,1
+30034,14,Seaforth High School,Government School,1999,1
+30035,14,Spring Garden Primary School,Government School,682,1
+30036,14,14 Technical High School,Government School,7232,1
+30037,14,Thornton Primary School,Government School,3543,1
+30038,14,White Hall Primary,Government School,1980,0
+30039,14,Trinityville Primary School,Government School,5957,0
+30040,14,White Horses Primary School,Government School,9940,1
+30041,14,Wilmington Primary School,Government School,6726,0
+30042,14,Yallahs Primary School,Government School,8045,1
+30043,14,Woburn Lawn Primary School,Government School,4011,0
+30044,9,Bonnett Primary School,Government School,802,0
+30045,9,Born Again Mystic Deliverance Ministry,Church,3531,0
+30046,9,Browns Hall Primary School,Government School,4103,1
+30047,9,Cedar Valley Primary School,Government School,2575,0
+30048,9,Central Village Multi-Purpose,Community Centre,3396,0
+30049,9,Charlemont High School,Government School,1515,1
+30050,9,Crescent Primary School,Government School,1742,1
+30051,9,Eltham Park Primary School,Government School,8943,0
+30052,9,Ensom City Primary School,Government School,6224,0
+30053,9,Ewarton High School,Government School,7220,0
+30054,9,G.C.Foster College,Government Owned College,7339,1
+30055,9,Spanish Town Primary School,Government School,9018,0
+30056,9,Orangefield Community Centre,Community Centre,5959,1
+30057,9,Polly Ground Primary School,Government School,4585,0
+30058,9,Guys Hill High School,Government School,5935,0
+30059,9,Mt. Nebo Primary School,Government School,6944,0
+30060,9,Seafield Primary School,Government School,1009,0
+30061,9,Redwood Primary School,Government School,1263,0
+30062,9,March Street Basic School,Government School,9806,1
+30063,9,Sergeantville Primary School,Government School,7254,1
+30064,9,Linstead Primary Junior High School,Government School,4120,1
+30065,9,Victoria Primary School,Government School,8236,1
+30066,9,Glengoffe High School,Government School,5187,1
+30067,9,Cassava River Primary and Infant School,Government School,7605,1
+30068,9,Wakefield Primary School,Government School,4853,0
+30069,9,Lluidas Vale Primary School,Government School,7464,1
+30070,9,Top Hill Primary School,Government School,2174,1
+30071,9,Tydixon Primary School,Government School,3288,1
+30072,9,Bartons Primary School,Government School,3374,1
+30073,9,Old Harbour Primary School,Government School,568,1
+30074,9,Davis Primary School,Government School,8275,0
+30075,9,Old Harbour High School,Government School,7957,1
+30076,9,Watermount Primary School,Government School,10000,1
+30077,9,Tacius Golding High School,Government School,9678,1
+30078,9,Point Hill Primary School,Government School,472,0
+30079,9,Simon Primary and Infant School,Government School,1809,1
+30080,9,McGrath High School,Government School,2520,0
+30081,9,White Marl Primary School,Government School,1756,1
+30082,9,Enid Bennett High School,Government School,1567,1
+30083,9,Friendship Primary School,Government School,158,0
+30084,9,New Testament Church of God (Little Africa Star),Church,7045,1
+30085,9,9 High School,Government School,6344,0
+30086,9,Homestead Primary School,Government School,3002,1
+30087,9,St. John's Primary School,Government School,3698,1
+30088,9,Horizon Park Primary & Junior High,Government School,359,1
+30089,9,Rosemount Primary School,Government School,1719,0
+30090,9,Commodore New Testament Church,Church,2336,1
+30091,9,St. Faith's Primary School,Government School,7491,0
+30092,9,Sligoville Primary School,Government School,3135,0
+30093,9,Mt.Moreland Primary & Jnr. High,Government School,4181,0
+30094,9,Top Jackson Primary School,Government School,7784,0
+30095,9,James Mountain Community Centre,Community Centre,7967,0
+30096,9,Waugh Hill Basic School,Government School,2181,0
+30097,9,McAuley Primary School,Government School,4904,0
+30098,9,Troja Primary Junior High & Infant School,Government School,950,1
+30099,9,Ham Walk Primary & Infant School,Government School,6616,0
+30100,9,Harewood Primary School,Government School,3813,1
+30101,9,Mt. Hermon Primary School,Government School,9287,1
+30102,9,Berwick Primary School,Government School,5604,0
+30103,9,Gwenneil Basic School,Government School,9892,1
+30104,9,Glade Community Centre,Community Centre,4589,0
+30105,9,Church of God of Prophecy,Church,982,1
+30106,9,Innswood High School,Government School,4283,0
+30107,9,Sydenham Community Center,Government School,9193,0
+30108,9,Lucky Valley Primary School,Government School,6205,0
+30109,9,10's Primary,Government School,4765,1
+30110,9,Assembly of Righteous,Government School,8685,0
+30111,9,Jose Marti Technical High School,Government School,8835,0
+30112,9,Ascot High School,Government School,2463,0
+30113,9,HEART College of Construction Services,Government School,8523,1
+30114,9,Naggo Head Primary School,Government School,8215,1
+30115,9,Portsmouth Primary School,Government School,2352,1
+30116,9,Gregory Park Primary School,Government School,1453,1
+30117,9,Southborough Primary School,Government School,7157,0
+30118,9,Kensington Primary School,Government School,5454,1
+30119,9,Hellshire United Pentecostal Church,Church,7355,0
+30120,9,Bridgeport High School,Government School,2688,1
+30121,9,Clifton Basic School,Government School,2030,1
+30122,9,Braeton Primary School,Government School,5888,1
+30123,9,Waterford Primary School,Government School,958,1
+30124,9,Belmont Park Primary School,Government School,2255,1
+30125,9,Cumberland High School,Government School,767,1
+30126,9,Independence City Primary School,Government School,840,0
+30127,9,Glad Tidings Church,Church,8165,0
+30128,12,Allman Hill Primary and Junior High,Government School,2233,1
+30129,11,Allman Town Primary School,Government School,2412,0
+30130,12,August Town Primary School,Government School,6888,1
+30131,11,Balcombe Drive Primary School,Government School,6643,1
+30132,11,Balmagie Primary School,Government School,8847,1
+30133,12,Brandon Hill Primary & Infant School,Government School,7433,1
+30134,12,Cavaliers All Age School,Government School,5490,1
+30135,11,Charlie Smith High School,Government School,4432,1
+30136,11,Chetolah Park Primary School,Government School,4271,1
+30137,11,Clan Carthy High School,Government School,2899,0
+30138,11,Clan Carthy Primary School,Government School,8137,0
+30139,11,Church Of First Born,Church,662,1
+30140,12,Clifton Hill Primary School,Government School,1043,0
+30141,11,Cockburn Gardens Primary and Junior High,Government School,7928,0
+30142,11,Constant Spring Primary & Junior High,Government School,4535,0
+30143,12,Constitution Hill Primary and Infant,Government School,2340,0
+30144,12,Content Gap Primary School,Government School,4050,0
+30145,12,Content Gap SDA Church,Church,3733,0
+30146,12,Craighton Primary School,Government School,7986,1
+30147,12,Dallas Castle Primary School,Government School,5161,0
+30148,11,Denham Town High School,Government School,5389,0
+30149,11,Drews Avenue Primary and Infant School,Government School,2940,1
+30150,11,Dunrobin Primary School School,Government School,3407,1
+30151,11,Dupont Primary and Infant School,Government School,401,1
+30152,11,Edith Dalton James High,Government School,4297,1
+30153,11,Elleston Primary and Infant School,Government School,7416,1
+30154,12,Essex Hall Primary School,Government School,9660,1
+30155,11,Franklyn Town Primary School,Government School,376,0
+30156,11,Friendship Brook Primary School,Government School,5881,1
+30157,11,Gaynstead High School,Government School,4386,1
+30158,12,Golden Spring Primary School,Government School,7158,0
+30159,12,Golden Valley Primary And Infant School,Government School,5433,1
+30160,11,Goldsmith Villa Community Centre,Community Centre,2465,0
+30161,11,Greenwich All Age School,Government School,6126,1
+30162,12,Halls Delight Primary and Junior High,Government School,583,0
+30163,11,Harbour View Primary School,Government School,5124,0
+30164,11,Holy Family Primary School,Government School,9215,1
+30165,11,Holy Rosary Primary School,Government School,461,1
+30166,11,Holy Trinity High School,Government School,5892,0
+30167,12,Iris Gelly Primary School,Government School,8027,1
+30168,11,Jacks Hill Community Centre,Community Centre,7336,1
+30169,11,Jones Town Primary School,Government School,5633,1
+30170,12,King Weston Primary and Infant School,Government School,2189,0
+30171,11,Kingston Technical High School,Government School,788,0
+30172,11,Kingsway High School,Government School,8099,1
+30173,11,Kintyre Community Centre,Community Centre,333,1
+30174,12,Lawrence Tavern Primary School,Government School,4515,0
+30175,12,Louise Bennett Coverley Primary,Government School,5563,0
+30176,11,Majestic Gardens Community Centre/St. Andrew Settlement,Community Centre,9192,0
+30177,11,Mannings Hill All Age School,Government School,7415,1
+30178,11,Maverley Primary & Junior High School,Government School,5123,0
+30179,12,Mavis Bank High School,Government School,470,1
+30180,11,Melrose Primary and Junior High,Government School,9227,1
+30181,11,National Arena,Government Facility,2016,0
+30182,12,National Baptist Full Gospel (Bowden Hill),Church,2621,1
+30183,11,New Day Primary And Junior High,Government School,4656,1
+30184,12,New Providence Primary School,Government School,1084,1
+30185,11,Norman Gardens Junior High,Government School,6961,0
+30186,11,Norman Manley High School,Government School,5339,1
+30187,11,Oakland Glades Community Centre,Community Centre,7882,0
+30188,12,Oberlin High School,Government School,381,0
+30189,11,Padmore Primary School,Government School,4138,1
+30190,11,Papine High School,Government School,9376,1
+30191,11,Pembroke Hall High School,Government School,4250,0
+30192,11,Penwood High School,Government School,6201,1
+30193,12,Red Hills Primary School,Government School,8041,1
+30194,11,Rennock Lodge All Age School,Government School,716,1
+30195,11,Riverton Meadows Early Childhood Center,Government School,4985,0
+30196,12,Rock Hall All Age School,Government School,8562,0
+30197,11,Rollington Town Primary School,Government School,8068,1
+30198,11,Seaview Gardens Primary School,Government School,547,1
+30199,11,Seaward Primary and Junior High,Government School,2139,1
+30200,12,Sir Howard Cooke Community Centre,Community Centre,8821,0
+30201,12,Sommerset All Age School,Government School,7223,0
+30202,12,St. Benedict's Primary School,Government School,5031,1
+30203,11,St. Georges Girls School,Government School,2960,0
+30204,11,St. Jude's Primary School,Government School,1282,1
+30205,11,St. Michael's Primary School,Government School,3580,1
+30206,11,St Martin de Porres Primary School,Government School,4462,0
+30207,11,St. Patrick's Primary School,Government School,3472,1
+30208,12,St. Richard's Primary School,Government School,2993,1
+30209,12,St Theresa All Age School,Government School,1760,1
+30210,12,Stony Hill Heart Academy (only used by CPFSA,Government School,9672,0
+30211,12,Stony Hill Technical High School,Government School,5659,1
+30212,11,Swallowfield Primary & Junior High School,Government School,1817,1
+30213,11,Tarrant High School,Government School,9035,1
+30214,11,Tivoli Gardens High School,Government School,616,1
+30215,11,Tower Hill Primary School,Government School,4795,1
+30216,12,Unity Primary and Infant School,Government School,1564,0
+30217,11,Upper Room Community Church,Church,8226,0
+30218,11,Vauxhall High School,Government School,8005,0
+30219,11,Westphalia All Age School,Government School,9489,0
+30220,11,Whitfield Infant and Primary School,Government School,4234,1
+30221,11,Windward Road Primary and Junior High,Government School,7368,1
+30222,12,Woodford Primary and Infant School,Government School,6411,0
+30223,10,Castleton Community Centre,Government School,6112,0
+30224,10,Devon Pen Primary School,Government School,3521,1
+30225,10,Scotts Hall Primary,Government School,9757,0
+30226,10,Rock River Primary School,Government School,3949,0
+30227,10,Enfield Primary and Junior High School,Government School,9613,0
+30228,10,Long Road Primary and Junior High School,Government School,2075,1
+30229,10,Baxters Mountain Primary School,Government School,5077,0
+30230,10,Mount Joseph Primary School,Government School,975,1
+30231,10,Epsom All Age School,Government School,9323,0
+30232,10,Annotto Bay High School (Marking Stone),Government School,2849,0
+30233,10,New Orange Hill Infant & Primary School,Government School,2563,1
+30234,10,Martins Infant & Primary School,Government School,9967,0
+30235,10,Hill Side Primary School,Government School,7800,0
+30236,10,Horace Clarke High School,Government School,7881,1
+30237,10,Highgate Primary and Junior High,Government School,8397,1
+30238,10,10 High School,Government School,5095,1
+30239,10,Zion Hill Primary School,Government School,4437,1
+30240,10,Belfield Primary School,Government School,5021,0
+30241,10,Bromley Primary and Junior High,Government School,659,0
+30242,10,10 Technical High Campus 2,Government School,7178,1
+30243,10,10 Technical High Campus 1,Government School,4283,0
+30244,10,Lewisburg Primary School,Government School,7842,1
+30245,10,Brainard Primary School,Government School,9754,1
+30246,10,Richmond Primary School,Government School,6675,1
+30247,10,Hampstead Primary School,Government School,7432,1
+30248,10,Trinity Primary School,Government School,8409,0
+30249,10,Heywood Hall Basic School,Government School,7733,1
+30250,10,Port Maria SDA,Church,7434,1
+30251,10,Albion Mountain Primary School,Government School,1880,1
+30252,10,Oracabessa High School,Government School,6819,1
+30253,10,Hamilton Mountain Community Centre,Community Centre,4736,0
+30254,10,Mason Hall Primary School,Government School,155,0
+30255,10,Galina Primary School,Government School,1595,0
+30256,10,Galina SDA Church,Church,6972,1
+30257,10,Shiloh Apostolic Church,Church,3268,1
+30258,10,Ramble Primary and Junior High School,Government School,7712,1
+30259,10,Boscobel Primary School,Government School,3100,0
+30260,10,Retreat Primary and Junior High,Government School,3695,1
+30261,10,Newstead Primary & Junior High School,Government School,9493,0
+30262,10,Tacky High School,Government School,3558,0
+30263,10,Three Hills Primary School,Government School,5926,1
+30264,10,Mount Angus Primary and Junior High School,Government School,1877,1
+30265,10,Free Hill Primary School,Government School,3887,0
+30266,10,Jacks River Primary School,Government School,7583,0
+30267,10,Gayle Primary School,Government School,1055,1
+30268,10,Jeffery Town Primary School,Government School,681,0
+30269,10,Hartland Basic School /Community Centre,Government School/Community Centre,3726,1
+30270,10,Wallingford Primary School,Government School,5401,0
+30271,10,Windsor Castle New Testament Church,Church,5267,1
+30272,10,Goshen Primary School,Government School,591,1
+30273,10,Derry Primary School,Government School,1789,0
+30274,10,Carron Hall High School,Government School,4317,1
+30275,10,Carron Hall Primary School,Government School,8183,0
+30276,8,Aabuthnott Gallimore High School,Government School,1314,0
+30277,8,Inverness Primary School,Government School,2502,1
+30278,8,Charlton Primary School,Government School,7211,0
+30279,8,Bethany Primary School,Government School,6072,1
+30280,8,Aboukir Woods Primary School,Government School,2936,0
+30281,8,Eccelston Primary School,Government School,8900,1
+30282,8,Clyesdale Primary School,Government School,4333,0
+30283,8,Bamboo Primary and Junior High School,Government School,3124,1
+30284,8,Lilly field Community Centre/Basic School,Government School,7186,0
+30285,8,New Fine Community Centre,Community Centre,8908,1
+30286,8,Philadelphia All Age School,Government School,3296,1
+30287,8,Breadnut Hill Primary School,Government School,2802,0
+30288,8,Parry Town Primary School,Government School,5009,0
+30289,8,Beecher Town Primary School,Government School,1123,1
+30290,8,Epworth Primary School,Government School,1237,1
+30291,8,Bensonton Primary School,Government School,3154,1
+30292,8,Fort Georges Primary School,Government School,2854,1
+30293,8,Mcnie All Age School,Government School,8594,1
+30294,8,Concord Catholic Basic School,Government School,9195,0
+30295,8,York Castle Primary School,Government School,6487,0
+30296,8,Alderton Primary School,Government School,8887,1
+30297,8,Alderton Community Centre,Community Centre,7231,1
+30298,8,Clarksonville All Age School,Government School,9905,1
+30299,8,Bohemia All Age School,Government School,3570,0
+30300,8,Cascade Primary School,Government School,8356,1
+30301,8,Mt Moriah Primary & Infant School,Government School,205,0
+30302,8,Addison Complex,Community Centre,3545,1
+30303,8,Browns Town High School,Government School,7975,1
+30304,8,York Castle Primary & Infant School,Government School,9587,0
+30305,8,Muir House Buxton Primary & Junior High,Government School,6764,0
+30306,8,Browns Town Primary School,Government School,7709,0
+30307,8,Lower Buxton Primary & Infant School,Government School,5013,0
+30308,8,Servite Primary School,Government School,5785,0
+30309,8,Bob Marley Primary & Junior High School,Government School,5395,0
+30310,8,Higginss Land Primary & Junior High School,Government School,1104,0
+30311,8,Prickly Pole All Age School,Government School,8254,1
+30312,8,Grants Mt. Primary School,Government School,5073,1
+30313,8,Murray Mt. Primary School,Government School,9487,1
+30314,8,Ferncourt High School,Government School,1126,0
+30315,8,Claremont All Age School,Government School,3431,1
+30316,8,Golden Grove All Age School,Government School,6340,1
+30317,8,Golden Grove Basic School,Government School,7651,0
+30318,8,Liberty Community Centre,Government School,8685,0
+30319,8,Keith All Age School,Government School,9837,0
+30320,8,Thickets Basic School,Government School,9151,0
+30321,8,Waltham Abbey Primary School,Government School,5122,0
+30322,8,Discovery Bay All Age School,Government School,952,0
+30323,8,Keith Community Centre,Community Centre,7195,0
+30324,8,Queenhythe Community Centre,Community Centre,9582,1
+30325,8,Lodge Community Centre,Community Centre,8826,1
+30326,8,Eltham Community Centre,Community Centre,7037,1
+30327,8,Exchange All Age School,Government School,3638,1
+30328,8,Madras All Age School,Government School,9500,0
+30329,8,Watt Town All Age School,Government School,509,1
+30330,8,Retirement Primary School,Government School,546,0
+30331,8,Linton Park All Age School,Government School,6203,0
+30332,8,Steer Town Academy,Government School,1067,1
+30333,8,Lime Hall Community Centre & Basic School,Government School/Community Centre,3791,0
+30334,8,Steer Town Primary and Junior High,Government School,8139,0
+30335,8,Chalky Hill Infant & Primary School,Government School,1240,1
+30336,8,Lime Hall Primary School,Government School,3476,1
+30337,8,Steerfield Community Centre,Community Centre,9159,1
+30338,8,Mt. Waddy All Age School,Government School,3496,1
+30339,8,Village Primary & Infant School,Government School,1686,1
+30340,8,Village Academy,Government School,8451,0
+30341,8,Clapham Primary School,Government School,8336,1
+30342,8,Walkers Wood All Age School,Government School,689,1
+30343,8,Mt. Waddy Primary School,Government School,1454,1
+30344,8,St Georges All Age School,Government School,7281,1
+30345,8,Camperdown All Age School,Government School,2427,0
+30346,8,Turnberry Primary School,Government School,8817,1
+30347,8,Moneague Primary And Junior High School,Government School,7466,1
+30348,8,Moneague Community College,Private School,5153,0
+30349,8,Ocho Rios Primary School,Government School,4173,0
+30350,8,Ocho Rios High School,Government School,5215,1
+30351,8,Priory Primary School,Government School,9059,1
+30352,8,St Anns Bay Primary School,Government School,8758,1
+30353,8,Seville Heights Sports Centre,Community Centre,7543,1
+30354,8,St. Anns Bay High & Preparatory School,Government School/Private School,4268,1
+30355,8,Marcus Garvey Technical High School,Government School,1208,0
+30356,8,Chester Primary School,Government School,7306,0
+30357,8,Hooelbury Primary School,Government School,6625,1
+30358,8,Mines Basic School,Government School,3181,1
+30359,8,Runaway Bay All Age School,Government School,7001,1
+30360,8,Mt. Zion Primary School,Government School,4489,0
+30361,8,Mt. Zion Basic School,Government School,977,0
+30362,8,Sturge Town Primary School,Government School,8165,1
+30363,13,Avocat Primary & Junior High School,Government School,858,0
+30364,13,Belle Castle Primary School,Government School,4359,1
+30365,13,Bellevue All Age School,Government School,6997,1
+30366,13,Birnamwood All Age School,Government School,6590,1
+30367,13,Bloomfield All Age School,Government School,5232,0
+30368,13,Boston Primary School,Government School,7251,0
+30369,13,Buff Bay High School,Government School,8393,1
+30370,13,Buff Bay Primary School,Government School,9792,1
+30371,13,Bybrook Primary School,Government School,8712,1
+30372,13,Cascade All Age School,Government School,8890,0
+30373,13,Charles Town Primary School,Government School,8207,0
+30374,13,Chepstowe Basic School,Government School,6223,0
+30375,13,Claverty All Age School,Government School,3029,0
+30376,13,Comfort Castle Primary & Junior High School,Government School,1495,0
+30377,13,Coopers Hill Primary & Junior High School,Government School,4503,0
+30378,13,Drapers All Age School,Government School,3174,0
+30379,13,Fairfield Primary & Infant School,Government School,8931,1
+30380,13,Fair Prospect Primary School,Government School,956,0
+30381,13,Fair Prospect High School,Government School,999,0
+30382,13,Fruitful Vale Primary School,Government School,8270,0
+30383,13,Happy Grove High School,Government School,4691,1
+30384,13,Hope Bay All Age School,Government School,3243,1
+30385,13,Ken Wright Primary School,Government School,1142,0
+30386,13,Manchioneal All Age School,Government School,6611,1
+30387,13,Moore Town All Age School,Government School,3107,1
+30388,13,Mount Herman Primary & All Age School,Government School,1217,1
+30389,13,Mount Pleasant Primary School,Government School,1824,0
+30390,13,Nonesuch All Age School,Government School,7001,0
+30391,13,Norwich Primary School,Government School,2449,1
+30392,13,Orange Bay Primary & Infant School,Government School,3760,0
+30393,13,Port Antonio High School,Government School,771,1
+30394,13,Port Antonio High Campus 2,Government School,1658,1
+30395,13,Reach All Age School,Government School,3065,0
+30396,13,Rock Hall All Age School,Government School,9453,0
+30397,13,Rural Hill Primary School,Government School,1409,1
+30398,13,Seaside Primary School,Government School,1219,0
+30399,13,Sherwood Forest All Age School,Government School,7984,0
+30400,13,Shirley Castle Primary School,Government School,1062,0
+30401,13,Skibo All Age School,Government School,805,1
+30402,13,St. Margarets Bay All Age School,Government School,1424,0
+30403,13,Titchfield High School,Government School,3648,1
+30404,13,Tranquility All Age School,Government School,7514,1
+30405,13,Windsor All Age School,Government School,8911,0
+30406,13,Windsor Castle Infant School,Government School,3147,0
+30407,13,Windsor Forest Primary School,Government School,795,1
+30408,6,Aenon Town All Age,Government School,3643,1
+30409,6,Alley Primary School,Government School,868,0
+30410,6,Anderson Town Primary School,Government School,2866,0
+30411,6,Arthurs Seat Primary School,Government School,2257,1
+30412,6,Alston High School,Government School,175,0
+30413,6,Ashley Primary School,Government School,2251,1
+30414,6,Beulah Primary & Junior High School,Government School,6352,1
+30415,6,Braehead Community Center & Basic School,Government School/Community Centre,9355,1
+30416,6,Brandon Hill Primary School,Government School,6726,0
+30417,6,Brixton Hill Primary School,Government School,132,1
+30418,6,Bucknor Community Centre,Community Centre,5634,0
+30419,6,Bustamante High School,Government School,7964,1
+30420,6,Canaan Heights Community Centre,Community Centre,3910,0
+30421,6,Central High School,Government School,1798,0
+30422,6,Chandlers Pen Primary & Junior High School,Government School,7119,1
+30423,6,Chapelton Primary School,Government School,5904,0
+30424,6,6 Drop-In Centre,Community Centre,3363,0
+30425,6,Claude McKay High School,Government School,4712,0
+30426,6,Coffee Piece All Age School,Government School,4818,1
+30427,6,Collington Primary School,Government School,1399,0
+30428,6,Crofts Hill Primary & Junior High School,Government School,9082,1
+30429,6,Crooked River Primary School,Government School,2261,1
+30430,6,Cross Primary & Jnr. High School,Government School,4851,0
+30431,6,Denbigh High School,Government School,7996,0
+30432,6,Elgin Primary School,Government School,891,1
+30433,6,Faith Basic School,Government School,6895,1
+30434,6,Four Paths Primary & Jnr High,Government School,4407,1
+30435,6,Frankfield Primary School,Government School,3381,1
+30436,6,Garlogie Primary School,Government School,215,1
+30437,6,Garvey Maceo High School,Government School,1334,0
+30438,6,Gimme-Me-Bit Primary School,Government School,7327,0
+30439,6,Gravel Hill All-Age School,Government School,555,1
+30440,6,Green Park Primary and Junior High,Government School,4197,1
+30441,6,Hayes Primary & Junior High School,Government School,4846,1
+30442,6,Hazard Primary School,Government School,8237,0
+30443,6,James Hill/ Narine Castle Community Centre,Community Centre,4522,1
+30444,6,John Austin Primary School,Government School,3151,1
+30445,6,John's Hall Primary School,Government School,6633,1
+30446,6,Kellits High School,Government School,6407,0
+30447,6,Kellits Primary School,Government School,8375,1
+30448,6,Kilsyth Primary And Infant School,Government School,6402,0
+30449,6,Long Look Primary School,Government School,8213,1
+30450,6,McNie Primary All Age School,Government School,6959,1
+30451,6,Milk River Primary School,Government School,8373,1
+30452,6,Mitchell Town Community Centre,Community Centre,3255,1
+30453,6,Mitchell Town Primary School,Government School,2549,0
+30454,6,Mitchell's Hill Primary School,Government School,3724,1
+30455,6,Mocho Primary School,Government School,9879,1
+30456,6,Moores Primary School,Government School,7277,1
+30457,6,Morgans Forest Primary School,Government School,8395,0
+30458,6,Morgan's Pass Primary,Government School,8286,0
+30459,6,Mount Airy Primary School,Government School,6124,0
+30460,6,Mount Caramel Primary,Government School,434,1
+30461,6,Mount Liberty Primary School,Government School,8782,0
+30462,6,Mount Providence Primary School,Government School,3780,0
+30463,6,Osborne Store Primary & Junior High,Government School,6045,1
+30464,6,Park Hall Primary School,Government School,3918,0
+30465,6,Peckham Community Centre,Community Centre,6016,1
+30466,6,Pleasant Valley Primary School,Government School,6022,0
+30467,6,13 Cottage Primary School,Government School,7701,0
+30468,6,Prospect Primary School,Government School,9465,1
+30469,6,Race Course Primary School,Government School,8506,1
+30470,6,Red Hills Primary & Infant School,Government School,7509,1
+30471,6,Rest Primary & Junior High School,Government School,1895,1
+30472,6,Rhymesbury Community Centre,Community Centre,7790,0
+30473,6,Richmond Park Primary School,Government School,2587,1
+30474,6,Ritches Primary School,Government School,6607,0
+30475,6,Rock Primary and Junior High,Government School,4577,0
+30476,6,Rock River All-Age School,Government School,8096,1
+30477,6,Rocky Point Community Centre,Community Centre,1489,0
+30478,6,Rose Hill New Testament Church,Church,2966,0
+30479,6,Rosewell All Age School,Government School,5804,0
+30480,6,Salt Savannah Primary School,Government School,9609,0
+30481,6,Sangsters Heights Community Centre,Community Centre,8220,1
+30482,6,Sanguinetti Primary School,Government School,4486,1
+30483,6,Scott Pass Primary School,Government School,2211,1
+30484,6,Simon Primary School,Government School,8891,0
+30485,6,Smithville Primary School,Government School,1005,1
+30486,6,Spaldings Primary School,Government School,9943,0
+30487,6,Staceyville All Age School,Government School,825,0
+30488,6,Sunberry All Age School,Government School,7380,1
+30489,6,Thompson Town High School,Government School,8271,0
+30490,6,Toll Gate Primary School,Government School,5606,1
+30491,6,Treadlight Primary School,Government School,5387,1
+30492,6,Trout Hall Primary School,Government School,1252,0
+30493,6,Tweedside Primary School,Government School,3879,1
+30494,6,Wanstead All Age School,Government School,3278,1
+30495,6,Victoria Primary School,Government School,8847,1
+30496,6,Water Lane Community Centre,Community Centre,3745,1
+30497,6,Watsonton Primary School,Government School,8410,1
+30498,6,Wesleyan Holiness Church,Church,361,0
+30499,6,Wood Hall Primary School,Government School,9595,0
+30500,6,York Town Community Centre,Community Centre,157,1
+30501,6,York Town Primary School,Government School,4518,1
+30502,7,7 High School,Government School,4874,1
+30503,7,DeCarteret College,Government School,1960,0
+30504,7,Mandeville Primary & Junior High,Government School,6823,0
+30505,7,Villa Road Primary School,Government School,1252,0
+30506,7,Somerset Primary School,Government School,4203,1
+30507,7,Kendal Primary School,Government School,1475,1
+30508,7,Holmwood Technical High School,Government School,1538,0
+30509,7,Free Town Community Centre,Community Centre,7526,0
+30510,7,Coleyville SDA Church,Church,7601,1
+30511,7,Prospect Primary School,Government School,7087,1
+30512,7,Plowden Primary School,Government School,6292,0
+30513,7,Royal Flat Basic School,Government School,7343,0
+30514,7,New Forest Infant Primary & Junior High,Government School,6616,1
+30515,7,Mile Gully Primary School,Government School,5306,0
+30516,7,Waterloo Primary School,Government School,1523,0
+30517,7,Coley Mountain Primary School,Government School,7291,0
+30518,7,Comfort Hall Primary School,Government School,6015,1
+30519,7,Frankfield Primary & Infant,Government School,4571,0
+30520,7,Craighead Primary School,Government School,5061,0
+30521,7,Medina Primary School,Government School,1363,0
+30522,7,Porus High School,Government School,1460,1
+30523,7,Porus Infant School,Government School,4376,1
+30524,7,Porus Primary School,Government School,5079,0
+30525,7,Ramble Primary & Infant School,Government School,3700,0
+30526,7,St. Jago Primary School,Government School,3939,0
+30527,7,Harmon's Primary School,Government School,8854,0
+30528,7,Old England Primary School,Government School,1437,1
+30529,7,May Day High School,Government School,2457,1
+30530,7,West Indies College Preparatory,Private School,4251,1
+30531,7,Bellefield Primary,Government School,396,0
+30532,7,Bethabara Primary & Junior High,Government School,1187,1
+30533,7,HuntleyPrimary School,Government School,6273,1
+30534,7,Grace Apostolic Church,Church,2620,0
+30535,7,Fairfield SDA Church,Church,8096,1
+30536,7,Fairfield Primary School,Government School,8769,0
+30537,7,Hatfield Primary & Junior High,Government School,5324,1
+30538,7,Chantilly Primary & Infant School,Government School,6578,1
+30539,7,Richmond Primary School,Government School,4059,1
+30540,7,Greenvale Community Centre,Community Centre,3257,0
+30541,7,Greenvale Anglican Basic School,Government School,9512,0
+30542,7,New Green Primary & Junior High School,Government School,2584,0
+30543,7,New Broughton Primary School,Government School,4318,0
+30544,7,Grove Town Primary School,Government School,2269,1
+30545,7,Mount Olivet Primary School,Government School,5582,1
+30546,7,Marlie Hill Primary School,Government School,4789,1
+30547,7,Winston Jones High School,Government School,8695,0
+30548,7,Cross Keys High School,Government School,884,0
+30549,7,Antioch Basic School,Government School,877,1
+30550,7,Devon Primary School,Government School,356,1
+30551,7,Christiana High School,Government School,5614,0
+30552,7,Broadleaf Primary and Infant School,Government School,6181,0
+30553,7,Comfort Basic School,Government School,772,1
+30554,7,Christiana Leased Primary School,Government School,1036,0
+30555,7,Christiana Moravian Primary School,Government School,3692,0
+30556,7,Chudleigh Community Centre,Community Centre,5357,1
+30557,7,Top Hill Community Centre,Community Centre,824,0
+30558,7,McIntosh Memorial Primary School,Government School,4082,0
+30559,7,Bryce Primary School,Government School,4502,0
+30560,7,Robins Hall Primary School,Government School,2421,0
+30561,7,Rose Hill Primary School,Government School,8747,0
+30562,7,Patrick Town Primary School,Government School,3665,1
+30563,7,Garlogie Primary School,Government School,5559,0
+30564,7,Victoria Town Primary School,Government School,3258,0
+30565,7,Bellfield High School,Government School,1276,0
+30566,7,Anna Miller Basic School,Government School,9546,0
+30567,7,Zion Hill Primary School,Government School,8766,1
+30568,3,Bogue Primary School,Government School,2375,0
+30569,3,Quickstep A/A School,Government School,1504,0
+30570,3,Goshen Community Centre,Community Centre,5867,1
+30571,3,Roses Valley Primary School,Government School,5638,1
+30572,3,Balaclava Primary & Infant School,Government School,7794,1
+30573,3,Roger Clarke High (Balaclava High School),Government School,2419,1
+30574,3,Knoxwood Basic School,Government School,1121,0
+30575,3,Slipe Leased Primary & Infant School (P),Government School,9492,1
+30576,3,Black River High School,Government School,3873,0
+30577,3,Black River Primary & Infant School,Government School,462,0
+30578,3,Crawford Primary & Infant School,Government School,6891,1
+30579,3,Fullerswood Primary & Infant School,Government School,3438,0
+30580,3,New Town Community Centre,Community Centre,357,0
+30581,3,Mt. Osborn All Age School,Government School,8748,0
+30582,3,Braes River Primary School,Government School,2854,1
+30583,3,Braes River Community Centre,Community Centre,9237,0
+30584,3,Braes River Basic School,Government School,3459,1
+30585,3,Leeds Primary School,Government School,6676,1
+30586,3,Pepper Primary & Infant School,Government School,3951,0
+30587,3,Buena Vista Community Centre,Community Centre,6435,1
+30588,3,Brompton Primary School,Government School,5908,1
+30589,3,Brompton Basic School,Government School,3457,0
+30590,3,Fyffes Pen Primary School,Government School,7785,0
+30591,3,Middle Quarters All-Age School,Government School,7006,0
+30592,3,Maggoty High School (P),Government School,5550,0
+30593,3,Accompong Primary School,Government School,1681,0
+30594,3,Elderslie Primary School,Government School,2207,1
+30595,3,Glen Stuart Primary School,Government School,2463,0
+30596,3,Merrywood Primary School,Government School,4034,1
+30597,3,Mulgrave Primary School,Government School,1964,0
+30598,3,Retirement Primary School,Government School,6005,1
+30599,3,White Hill Primary School,Government School,5790,0
+30600,3,Bull Savannah Primary & Infant (P),Government School,1632,1
+30601,3,B.B. Coke High School,Government School,3248,0
+30602,3,Carisbrook Primary School,Government School,3772,1
+30603,3,Glen Bromptfield Comunity Center,Community Centre,620,0
+30604,3,Holland Primary School,Government School,8850,0
+30605,3,Lacovia Primary & Infant School,Government School,4346,1
+30606,3,Newton Primary School,Government School,3384,1
+30607,3,Bethlehem All-Age & Infant School,Government School,1221,0
+30608,3,St. Alban´s All Age School,Government School,2580,0
+30609,3,Epping Forest All Age School,Government School,7462,1
+30610,3,10´s Primary School,Government School,6631,0
+30611,3,Mountainside Primary School (P),Government School,4634,0
+30612,3,Mountainside Basic School,Government School,3316,1
+30613,3,Parottee Primary School,Government School,6553,0
+30614,3,Barbary Hall Primary & Infant School,Government School,1097,1
+30615,3,Pondside All Age School,Government School,9179,0
+30616,3,Brinkley Primary School (P),Government School,9778,1
+30617,3,Nain High School,Government School,3481,1
+30618,3,Austin Primary School,Government School,9703,0
+30619,3,Russells Primary School (P),Government School,538,1
+30620,3,Lititz Primary & Infant School,Government School,6185,1
+30621,3,Warminster Primary & Infant School,Government School,3363,1
+30622,3,Red Bank Primary & Infant School,Government School,2716,0
+30623,3,Morningside Primary School,Government School,3198,1
+30624,3,Ginger Hill Primary School (P),Government School,5026,0
+30625,3,Lewisville High School (P),Government School,2593,0
+30626,3,Pisgah Primary School (P),Government School,7185,0
+30627,3,Springfield Primary School (P),Government School,6915,0
+30628,3,Nightingale Grove Primary School,Government School,3930,0
+30629,3,Beersheba All Age School,Government School,8173,0
+30630,3,Clapham Primary (Brighton) School,Government School,1525,0
+30631,3,Giddy Hall Primary School,Government School,4081,0
+30632,3,Happy Grove Primary & Infant School,Government School,1532,0
+30633,3,Kilmarnock Primary School,Government School,946,0
+30634,3,Geneva Primary School,Government School,1686,0
+30635,3,Pedro Plains Primary & Infant School,Government School,3331,0
+30636,3,Sandy Bank Primary School,Government School,6333,0
+30637,3,Flagaman Community Centre,Community Centre,2034,0
+30638,3,Hopewell Primary School,Government School,3876,1
+30639,3,Newcombe Valley Primary School,Government School,7241,0
+30640,3,Newell High School (P),Government School,7233,1
+30641,3,Schoolfield Primary & Infant School,Government School,2577,1
+30642,3,Burnt Savannah Primary School,Government School,4864,1
+30643,3,Marie Cole Memorial A/A School,Government School,2378,0
+30644,3,Park Mtn Primary School,Government School,4547,1
+30645,3,STETHS,Government School,1717,1
+30646,3,Santa Cruz Primary School,Government School,4730,1
+30647,3,Aberdeen High School (P),Government School,9349,0
+30648,3,Siloah Primary School (P),Government School,1325,1
+30649,3,Thornton Primary & Infant School (P),Government School,2455,1
+30650,3,Rose Hall Primary School,Government School,6564,0
+30651,3,Ballards Valley Primary School,Government School,5419,1
+30652,3,Mayfield Primary & Infant School,Government School,1606,1
+30653,3,Seaview Primary & Infant School,Government School,5772,1
+30654,3,Hopeton Primary School,Government School,9932,0
+30655,5,William Knibb High School,Government School,673,1
+30656,5,Perth Town Junior High School,Government School,7456,0
+30657,5,Holland High School,Government School,5384,0
+30658,5,Bounty Hall Primary School,Government School,4962,1
+30659,5,Granville Primary School,Government School,8448,0
+30660,5,Salt Marsh Primary School,Government School,6115,0
+30661,5,Waldensia Primary and Infant School,Government School,7966,1
+30662,5,Daniel Town Primary School,Government School,7185,0
+30663,5,Hague Primary School,Government School,5448,1
+30664,5,5 Multi-Purpose Stadium,Government Facility,135,1
+30665,5,Stonebrook Vista Community Centre,Community Centre,1048,1
+30666,5,Florence Hall Village Community Centre,Community Centre,7109,0
+30667,5,Duncans All-Age School,Government School,2219,1
+30668,5,Rio Bueno Primary School,Government School,9398,0
+30669,5,Refuge Primary School,Government School,9259,0
+30670,5,Carey Park Basic School,Government School,9141,1
+30671,5,Wakefield Primary School,Government School,1668,1
+30672,5,Hastings Primary School,Government School,6346,1
+30673,5,Unity Primary School,Government School,5104,0
+30674,5,Bunkers Hill Community Centre,Community Centre,7561,1
+30675,5,Hampden Primary School,Government School,5539,1
+30676,5,Dromilly Basic School,Government School,3307,1
+30677,5,Cedric Titus High School,Government School,9302,1
+30678,5,Clarks Town Primary School,Government School,7978,0
+30679,5,Kinloss Primary School,Government School,9424,1
+30680,5,Duanvale Primary School,Government School,8327,1
+30681,5,Stewart Town Resource Centre,Community Centre,4810,1
+30682,5,Sawyers Primary School,Government School,2833,1
+30683,5,Brampton Primary School,Government School,8000,1
+30684,5,First Hill All Age School,Government School,1902,1
+30685,5,Lowe River Primary and Junior High,Government School,9092,1
+30686,5,Wait-A-Bit Primary School,Government School,5814,0
+30687,5,Wire Fence Basic School,Government School,9377,1
+30688,5,Sanguinetti Basic School,Government School,5448,1
+30689,5,Warsop Primary and Infant School,Government School,4367,0
+30690,5,Troy High School,Government School,9000,1
+30691,5,Troy Primary School,Government School,1803,1
+30692,5,Spring Garden Primary & Infant School,Government School,1057,1
+30693,5,Albert Town High School,Government School,9675,0
+30694,5,Albert Town Primary School,Government School,5943,1
+30695,5,Ulster Spring Primary School,Government School,1337,0
+30696,5,Freemans Hall Primary School,Government School,2389,0
+30697,1,Ashton All Age School,Government School,8455,0
+30698,1,Barneyside All Age School,Government School,6857,0
+30699,1,Beaufort Primary School,Government School,6833,0
+30700,1,Belmont Academy,Government School,6378,1
+30701,1,Bethel Town Primary School,Government School,8918,1
+30702,1,Bethel Town Community Centre/ECI,Community Centre,3347,1
+30703,1,Blauwearie Primary School,Government School,8970,0
+30704,1,Broughton Primary School,Government School,5138,0
+30705,1,Cairn Curran All Age School,Government School,3554,1
+30706,1,Caledonia All Age School,Government School,7002,0
+30707,1,Carmel Primary School,Government School,653,1
+30708,1,Chantilly Primary School,Government School,9487,0
+30709,1,Cokes View Primary School,Government School,8382,0
+30710,1,Content Primary School,Government School,8515,0
+30711,1,Cornwall Mountain All Age,Government School,238,0
+30712,1,Dundee All-Age School,Government School,5916,0
+30713,1,Darliston Primary School,Government School,9445,1
+30714,1,Eldin Washington Basic School,Government School,6428,1
+30715,1,Enfield Primary School,Government School,1915,0
+30716,1,Ferris Primary School,Government School,764,1
+30717,1,Friendship Primary School,Government School,1369,0
+30718,1,Frome Technical High School,Government School,7644,1
+30719,1,George's Plain Primary School,Government School,6984,1
+30720,1,Godfrey Stewart High,Government School,7688,0
+30721,1,Grange Hill Comprehensive High,Government School,7205,1
+30722,1,Grange Hill Primary School,Government School,3663,0
+30723,1,Holly Hill Primary School,Government School,5650,1
+30724,1,Kentucky Primary & Jr High,Government School,3278,0
+30725,1,Kew Park All Age & Infant School,Government School,8816,0
+30726,1,King's Primary & Infant School,Government School,6766,0
+30727,1,Little Bay All Age School,Government School,8823,1
+30728,1,Little London High School,Government School,3964,1
+30729,1,Little London Primary School,Government School,1562,0
+30730,1,Manning's School,Government School,9295,0
+30731,1,Maud McLeod Comprehensive High,Government School,955,0
+30732,1,Mearnsville All Age,Government School,8603,1
+30733,1,Moreland Hill Primary School,Government School,2331,0
+30734,1,Mount Grace Primary & Junior High,Government School,8801,0
+30735,1,Mount Hermon All Age,Government School,173,1
+30736,1,Mount Hermon ECI,Government School,6688,0
+30737,1,Mt. Airy Primary & Infant School,Government School,1090,1
+30738,1,New Roads Primary School,Government School,2191,0
+30739,1,New Works Primary & Infant School,Government School,9650,1
+30740,1,Paul Island Primary & Basic School,Government School,9014,1
+30741,1,Paul Island Community Centre,Community Centre,8412,0
+30742,1,Peggy Barry Primary School,Government School,5768,1
+30743,1,Petersfield High School,Government School,9561,0
+30744,1,Petersfield Primary and Infant School,Government School,9730,1
+30745,1,Petersville All Age School,Government School,9269,1
+30746,1,Porters Mountain Primary,Government School,6411,1
+30747,1,Retrieve All Age School,Government School,5483,0
+30748,1,Revival Primary School,Government School,9616,1
+30749,1,Salem Primary & Junior High School,Government School,910,1
+30750,1,Savanna-La-Mar Primary School,Government School,1045,0
+30751,1,Seaford Town All Age School,Government School,5959,1
+30752,1,Sheffield All Age School,Government School,4276,0
+30753,1,St Paul's Primary School,Government School,8911,0
+30754,1,St. Leonards All Age School,Government School,4511,0
+30755,1,Strawberry Primary & Junior High School,Government School,5717,0
+30756,1,Town Head Primary School,Government School,492,0
+30757,1,Unity Primary School,Government School,6973,0
+30758,1,Sir Clifford Campbell Primary School,Government School,3282,0
+30759,1,Savanna-La- Mar Methodist Church,Church,6391,0
+30760,1,Williamsfield All Age School,Government School,2511,1
+30761,4,Adelphi Primary,Government School,5554,1
+30762,4,Albion Primary and Junior High,Government School,8036,1
+30763,4,Barracks Road Primary,Government School,6737,0
+30764,4,Barrett Town Primary,Government School,8118,1
+30765,4,Cornwall College,Government School,5416,1
+30766,4,4 High,Government School,2945,0
+30767,4,Montego Bay High,Government School,5738,0
+30768,4,Bickersteth Primary and Infant,Government School,5475,0
+30769,4,Buckingham Primary School,Government School,8839,1
+30770,4,Cambridge High School,Government School,618,1
+30771,4,Cambridge Primary School,Government School,9829,0
+30772,4,Catherine Hall Primary School,Government School,4174,0
+30773,4,Chatsworth Primary School,Government School,8284,0
+30774,4,Corinaldi Avenue Primary School,Government School,6936,1
+30775,4,Orange Hill Primary School,Government School,554,0
+30776,4,Mocho Basic School and Community Centre,Government School/Community Centre,943,0
+30777,4,Mount Horeb Primary School,Government School,5763,0
+30778,4,Mount Salem SDA Church,Church,9586,1
+30779,4,Orange SDA Church,Church,6435,0
+30780,4,Riverside Open Bible Church,Church,526,1
+30781,4,Roehampton S. D. A,Church,7284,0
+30782,4,Roehampton Apostolic Church,Church,9565,0
+30783,4,Anchovy High School,Government School,3364,1
+30784,4,John Rollins Success Primary School,Government School,870,1
+30785,4,Triumphant Basic School,Government School,3942,0
+30786,4,Euphemia Lawrence Basic School formerly Sterling Basic,Government School,4326,0
+30787,4,Rose Heights Full Gospel,Church,9711,0
+30788,4,Roehampton Primary School,Government School,6075,1
+30789,4,Roman Catholic Church Hall,Government School,8536,1
+30790,4,Buckingham Primary School,Government School,127,0
+30791,4,Salters Hill Primary School,Government School,3823,0
+30792,4,Somerton Primary and Infant,Government School,4802,1
+30793,4,Sudbury Primary School,Government School,6819,0
+30794,4,Sunderland Primary School,Government School,3108,0
+30795,4,Catadupa Primary School,Government School,9570,0
+30796,4,Glendevon Primary & Junior High School,Government School,703,1
+30797,4,Goodwill Primary & Infant School,Government School,9585,0
+30798,4,Granville Primary School,Government School,1471,1
+30799,4,Harrison Memorial High School,Government School,3674,0
+30800,4,Hampton S.D.A,Church,1183,1
+30801,4,Howard Cooke Primary School,Government School,554,1
+30802,4,Flamstead (Gardens) S.D.A.,Church,9856,1
+30803,4,Flankers Primary High,Government School,8786,1
+30804,4,Flower Hill S.D.A.,Government School,1250,1
+30805,4,Garlands Primary & Junior High School,Government School,1970,1
+30806,4,Lilliput SDA Church,Government School,7200,1
+30807,4,Irwin Primary & Infant School,Government School,492,0
+30808,4,Johns Hall Primary School,Government School,863,0
+30809,4,Lottery Primary School,Government School,1864,0
+30810,4,Maldon High School,Government School,6706,0
+30811,4,Mount Zion Primary School,Government School,5448,0
+30812,4,Bogue Hill Primary School,Government School,1222,0
+30813,4,Tower Hill Primary School,Government School,6616,0
+30814,4,Green Pond High School,Government School,5922,1
+30815,4,Niagara Primary,Government School,163,0
+30816,4,Dumfries Primary School,Government School,4585,1
+30817,4,Norwood United Gospel Church Basic School,Government School/Church,9785,0
+30818,2,Askenish All-Age School,Government School,6243,0
+30819,2,Axe n' Adze Church of God Universal,Church,5446,1
+30820,2,Axe n' Adze SDA Church,Church,6039,0
+30821,2,Bamboo Missionary Church & Basic School,Church,4843,0
+30822,2,Bethel Infant School,Government School,9467,1
+30823,2,Bethel Primary and Junior High,Government School,626,0
+30824,2,Blenheim SDA Church,Church,8753,0
+30825,2,Brownsville All-Age School,Government School,8812,0
+30826,2,Cacoon All-Age School,Government School,4565,0
+30827,2,Cacoon Castle All-Age School,Government School,9268,1
+30828,2,Cave Valley All-Age School,Government School,6706,0
+30829,2,Cave Valley Salvation Army,Government School,3016,1
+30830,2,Chambers Pen All Age,Government School,2973,1
+30831,2,Chester Castle All-Age School,Government School,6370,1
+30832,2,Chigwell Holiness Church,Church,6378,1
+30833,2,Church Hill Primary School,Government School,5816,0
+30834,2,Claremont All-Age School,Government School,5581,0
+30835,2,Clifton Primary School,Government School,6524,1
+30836,2,Copse Basic School,Government School,8458,0
+30837,2,Copse SDA Church,Church,9703,1
+30838,2,Cove Primary School,Government School,3357,1
+30839,2,Esher Primary School,Government School,3251,0
+30840,2,Merlene Ottey High School,Government School,8744,0
+30841,2,Pondside Primary & Infant School,Government School,7219,0
+30842,2,Green Island High School,Government School,2566,1
+30843,2,Green Island Primary School,Government School,8761,1
+30844,2,Green Island New Testament Church of God,Church,7907,1
+30845,2,Gurneys Mount All-Age School,Government School,3921,0
+30846,2,Haddington Basic School,Government School,9179,1
+30847,2,Hanover Infirmary,Infirmary,2804,0
+30848,2,Watford Hill All-Age,Government School,3406,1
+30849,2,Jericho All-Age School,Government School,6480,0
+30850,2,Kendal Primary School,Government School,9852,0
+30851,2,Knockalva Technical High School,Government School,3025,1
+30852,2,Logwood Community Centre,Community Centre,5926,0
+30853,2,Lucea Primary School,Government School,9433,0
+30854,2,Maryland All-Age School,Government School,2384,1
+30855,2,Middlesex Corner Primary School,Government School,4151,1
+30856,2,Miles Town Holiness Church,Church,2368,0
+30857,2,Mt. Hannah All-Age School,Government School,7998,1
+30858,2,Mt. Peto Primary School,Government School,4341,0
+30859,2,Mt. Peto Community Centre,Community Centre,2092,0
+30860,2,Mt. Ward Primary School,Government School,7937,1
+30861,2,Orange Bay Community Centre,Community Centre,7761,1
+30862,2,Pell River Primary School,Community Centre,9229,1
+30863,2,Rejoin Community Centre,Community Centre,9363,0
+30864,2,Richmond Basic School,Government School,6943,1
+30865,2,Riverside All-Age School,Government School,2479,0
+30866,2,Rock Spring/Upper Rock Spring Primary School,Government School,4447,0
+30867,2,Ruseas High School,Government School,5779,1
+30868,2,Salt Spring House of God Church & Basic School,Church,3680,1
+30869,2,Sandy Bay Primary & Junior High School,Government School,482,0
+30870,2,Sandy Bay Basic School,Government School,6839,0
+30871,2,St. Simons Primary School,Government School,8075,1
+30872,2,Success Primary School,Government School,6736,1

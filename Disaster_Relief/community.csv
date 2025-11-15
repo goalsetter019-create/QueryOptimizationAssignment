@@ -1,0 +1,45 @@
+community_id,parish_id,community_name,is_coastal
+101,1,Savanna-la-Mar,1
+102,1,Negril,1
+103,1,Little London,0
+104,2,Lucea,1
+105,3,Black River,1
+106,3,Santa Cruz,0
+107,3,Lacovia,1
+108,3,Maggoty,0
+109,4,Montego Bay,1
+110,4,Rose Hall,1
+111,4,Samuels,0
+112,5,Falmouth,1
+113,5,Duncans,0
+114,5,Clarks Town,0
+115,6,May Pen,0
+116,6,Chapelton,0
+117,6,Rocky Point,1
+118,7,Mandeville,0
+119,7,Christiana,0
+120,7,Alligator Pond,1
+121,8,St.Ann's Bay,1
+122,8,Ocho Rios,1
+123,8,Discovery Bay,1
+124,8,Brown's Town,0
+125,9,Spanish Town,0
+126,9,Old Harbour,1
+127,9,Linstead,0
+128,9,Portmore,1
+129,10,Port Maria,1
+130,10,Annotto Bay,1
+131,10,Oracabessa,1
+132,10,Highgate,0
+133,11,Kingston,1
+134,11,Port Royal,1
+135,12,Half-Way-Tree,0
+136,12,Bull Bay,1
+137,12,Gordon Town,0
+138,13,Port Antonio,1
+139,13,Buff Bay,1
+140,13,Norwich,1
+141,14,Morant Bay,1
+142,14,Yallahs,1
+143,14,Bath,1
+144,14,Welchtown,0

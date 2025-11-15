@@ -1,0 +1,771 @@
+site_id,community_id,site_name,site_type,is_infrastructure,damage_category,estimated_repair_cost,power_restored
+5001,128,Portmore Regional Hospital,Hospital,0,3,39462.1,0
+5002,134,Port Royal Police Station,Police Station,0,3,60278.84,0
+5003,142,Yallahs Clinic,Clinic,0,2,25854.49,1
+5004,110,Rose Hall Substation,Power Station,1,4,106960.46,0
+5005,134,Port Royal New Testament Church,Church,0,1,6533.51,0
+5006,111,Samuels Clinic,Clinic,0,3,54779.66,0
+5007,137,Gordon Town Regional Hospital,Hospital,0,1,12072.39,1
+5008,104,Lucea Baptist Church,Church,0,5,189633.32,0
+5009,138,Port Antonio All-Age School,School,0,2,31777.96,0
+5010,113,Duncans Fire Station,Fire Station,0,5,267319.03,0
+5011,126,Old Harbour All-Age School,School,0,2,15092.64,1
+5012,118,Mandeville New Testament Church,Church,0,4,129000.1,0
+5013,127,Linstead Baptist Church,Church,0,4,84110.96,0
+5014,114,Clarks Town Baptist Church,Church,0,4,116447.07,0
+5015,123,Discovery Bay Highway,Road,1,2,28270.75,1
+5016,137,Gordon Town Pentecostal Church,Church,0,1,9146.24,0
+5017,119,Christiana Fire Station,Fire Station,0,3,42346.7,1
+5018,123,Discovery Bay Health Centre,Clinic,0,3,51522.34,0
+5019,121,St.Ann's Bay High School,School,0,3,53353.66,0
+5020,127,Linstead Highway,Road,1,2,18104.8,0
+5021,136,Bull Bay All-Age School,School,0,2,20414.89,0
+5022,139,Buff Bay Highway,Road,1,1,6561.53,1
+5023,105,Black River Clinic,Clinic,0,4,78328.69,0
+5024,121,St.Ann's Bay Primary School,School,0,3,43336.4,1
+5025,125,St.Catherine Anglican Church,Church,0,3,64057.7,0
+5026,105,Black River River Bridge,Bridge,1,5,179927.99,0
+5027,125,Spanish Town Anglican Church,Church,0,2,15530.64,0
+5028,119,Christiana Baptist Church,Church,0,3,46963.61,1
+5029,120,Manchester Clinic,Clinic,0,3,56845.21,0
+5030,116,Clarendon All-Age School,School,0,2,20889.32,1
+5031,111,Samuels Clinic,Clinic,0,5,298824.73,0
+5032,102,Negril Hospital,Hospital,0,3,53957.2,0
+5033,119,Manchester Primary School,School,0,2,31698.6,1
+5034,110,Rose Hall High School,School,0,5,351780.77,0
+5035,132,Highgate Church of God,Church,0,4,136379.34,0
+5036,115,May Pen Anglican Church,Church,0,4,139911.21,1
+5037,144,St.Thomas Pentecostal Church,Church,0,1,11005.17,0
+5038,141,Morant Bay Primary School,School,0,1,8831.39,1
+5039,142,Yallahs Bypass,Road,1,2,27063.04,1
+5040,138,Portland Pentecostal Church,Church,0,2,29380.92,0
+5041,141,Morant Bay High School,School,0,1,11636.71,1
+5042,106,St.Elizabeth Fire Station,Fire Station,0,4,109709.3,0
+5043,133,Kingston Power Station,Power Station,1,1,8342.44,1
+5044,143,Bath Anglican Church,Church,0,3,50218.96,0
+5045,101,Savanna-la-Mar Police Station,Police Station,0,4,117218.45,0
+5046,103,Little London Highway,Road,1,5,306102.02,0
+5047,132,Highgate River Bridge,Bridge,1,3,65553.1,1
+5048,103,Westmoreland Pump Station,Water Plant,1,4,89973.44,0
+5049,129,Port Maria Health Centre,Clinic,0,3,68042.08,0
+5050,140,Norwich Gully Bridge,Bridge,1,1,14252.48,1
+5051,128,Portmore Highway,Road,1,4,147684.66,0
+5052,101,Savanna-la-Mar Main Bridge,Bridge,1,5,440120.42,0
+5053,135,Half-Way-Tree Type 3 Hospital,Hospital,0,3,43050.31,0
+5054,121,St.Ann's Bay New Testament Church,Church,0,4,75228.51,1
+5055,141,St.Thomas Police Station,Police Station,0,2,30814.46,1
+5056,112,Falmouth Hospital,Hospital,0,5,157444.29,0
+5057,131,Oracabessa Clinic,Clinic,0,2,25578.74,1
+5058,138,Port Antonio Police Station,Police Station,0,1,8507.12,0
+5059,115,May Pen Regional Hospital,Hospital,0,2,34681.67,0
+5060,130,Annotto Bay All-Age School,School,0,3,38866.59,0
+5061,117,Rocky Point Main Road,Road,1,3,36473.26,1
+5062,127,Linstead Gully Bridge,Bridge,1,2,22686.53,1
+5063,129,Port Maria Fire Station,Fire Station,0,4,140329.46,0
+5064,101,Savanna-la-Mar All-Age School,School,0,4,149293.49,0
+5065,110,Rose Hall Power Station,Power Station,1,4,111015.08,0
+5066,141,Morant Bay High School,School,0,2,19409.72,1
+5067,109,Montego Bay Primary School,School,0,3,65932.51,1
+5068,101,Savanna-la-Mar Main Road,Road,1,5,203863.57,1
+5069,110,Rose Hall Health Centre,Clinic,0,3,42833.62,0
+5070,134,Port Royal Police Station,Police Station,0,3,65711.13,0
+5071,132,Highgate Health Centre,Clinic,0,3,65174.47,1
+5072,110,St.James Anglican Church,Church,0,3,49295.86,1
+5073,128,Portmore Highway,Road,1,2,24917.51,1
+5074,117,Rocky Point Highway,Road,1,4,108446.93,0
+5075,140,Norwich High School,School,0,2,21956.18,1
+5076,105,St.Elizabeth Primary School,School,0,5,453552.97,0
+5077,104,Lucea High School,School,0,5,366513.98,0
+5078,111,Samuels Substation,Power Station,1,3,65830.48,0
+5079,142,Yallahs Type 3 Hospital,Hospital,0,1,13258.17,1
+5080,137,Gordon Town Main Road,Road,1,1,13179.67,0
+5081,102,Negril Highway,Road,1,5,371902,0
+5082,112,Falmouth Primary School,School,0,5,339443.3,0
+5083,126,Old Harbour Baptist Church,Church,0,3,57141.77,0
+5084,123,Discovery Bay All-Age School,School,0,2,28757.71,1
+5085,101,Savanna-la-Mar Church of God,Church,0,4,119673.24,0
+5086,121,St.Ann's Bay Highway,Road,1,3,68910.72,0
+5087,138,Portland Main Bridge,Bridge,1,2,15491.74,0
+5088,101,Savanna-la-Mar High School,School,0,5,498993.58,0
+5089,137,Gordon Town New Testament Church,Church,0,3,40726.83,0
+5090,108,Maggoty Clinic,Clinic,0,4,122360.9,0
+5091,144,Welchtown Highway,Road,1,1,14508.64,1
+5092,132,Highgate Health Centre,Clinic,0,3,44597.53,0
+5093,125,Spanish Town Police Station,Police Station,0,3,42458.66,1
+5094,106,Santa Cruz All-Age School,School,0,4,147455.47,0
+5095,136,St.Andrew Substation,Power Station,1,2,30531.94,1
+5096,138,Port Antonio Gully Bridge,Bridge,1,2,17624.9,1
+5097,111,Samuels Police Station,Police Station,0,4,80014.86,0
+5098,124,St.Ann High School,School,0,3,52205.81,0
+5099,113,Trelawny Pentecostal Church,Church,0,3,45862.67,0
+5100,106,St.Elizabeth River Bridge,Bridge,1,3,51797.86,0
+5101,124,Brown's Town Main Bridge,Bridge,1,2,32202.45,1
+5102,105,Black River Reservoir,Water Plant,1,5,324610.85,0
+5103,109,Montego Bay Anglican Church,Church,0,4,70781.67,0
+5104,113,Trelawny High School,School,0,4,72656.25,0
+5105,144,Welchtown Baptist Church,Church,0,3,54863.93,1
+5106,135,Half-Way-Tree Parochial Road,Road,1,1,7001.5,1
+5107,129,Port Maria Highway,Road,1,3,36818.99,0
+5108,117,Rocky Point All-Age School,School,0,3,63060.48,0
+5109,136,Bull Bay All-Age School,School,0,1,5801.15,1
+5110,127,Linstead High School,School,0,2,25528.05,1
+5111,131,Oracabessa Substation,Power Station,1,2,18190.89,1
+5112,102,Westmoreland Regional Hospital,Hospital,0,3,62639.45,1
+5113,114,Clarks Town Police Station,Police Station,0,5,491177.61,0
+5114,135,Half-Way-Tree Primary School,School,0,3,58807.99,0
+5115,115,May Pen Main Road,Road,1,3,65389.54,0
+5116,142,Yallahs Main Bridge,Bridge,1,3,47986.36,1
+5117,126,Old Harbour Police Station,Police Station,0,4,128020.61,0
+5118,122,Ocho Rios Regional Hospital,Hospital,0,2,33014.04,1
+5119,131,Oracabessa High School,School,0,4,120524.82,0
+5120,139,Buff Bay Fire Station,Fire Station,0,2,29316.5,0
+5121,140,Norwich Parochial Road,Road,1,3,64903.48,0
+5122,124,Brown's Town Reservoir,Water Plant,1,4,98738.67,1
+5123,114,Clarks Town Parochial Road,Road,1,4,90650.67,1
+5124,136,Bull Bay High School,School,0,1,8251.9,0
+5125,123,Discovery Bay Police Station,Police Station,0,2,16469.93,1
+5126,130,St.Mary Regional Hospital,Hospital,0,3,43705,1
+5127,126,Old Harbour Police Station,Police Station,0,4,128912.16,1
+5128,111,Samuels Bypass,Road,1,5,453894.95,1
+5129,131,Oracabessa Main Bridge,Bridge,1,2,17238.39,1
+5130,130,Annotto Bay Primary School,School,0,3,39273.85,0
+5131,101,Savanna-la-Mar Pentecostal Church,Church,0,4,81867.46,0
+5132,133,Kingston All-Age School,School,0,1,14651.19,1
+5133,134,Port Royal Highway,Road,1,1,9547.4,1
+5134,125,Spanish Town Police Station,Police Station,0,3,59663.83,0
+5135,129,Port Maria Police Station,Police Station,0,4,105500.02,0
+5136,122,Ocho Rios High School,School,0,3,64334.04,0
+5137,135,Half-Way-Tree Health Centre,Clinic,0,2,27356.94,1
+5138,129,Port Maria High School,School,0,3,58677.97,0
+5139,140,Norwich Pentecostal Church,Church,0,1,8938.64,1
+5140,141,Morant Bay Pentecostal Church,Church,0,3,49241.78,0
+5141,101,Savanna-la-Mar High School,School,0,5,264461.61,0
+5142,140,Norwich Church of God,Church,0,1,11675.93,0
+5143,103,Little London Hospital,Hospital,0,4,70460.69,0
+5144,112,Falmouth Clinic,Clinic,0,4,101084.65,0
+5145,128,Portmore Gully Bridge,Bridge,1,2,22465.04,1
+5146,120,Alligator Pond Primary School,School,0,2,27389.81,0
+5147,116,Chapelton Bypass,Road,1,3,35897.47,0
+5148,119,Manchester Health Centre,Clinic,0,3,53676.09,1
+5149,108,Maggoty Highway,Road,1,3,68443.33,0
+5150,120,Alligator Pond All-Age School,School,0,2,27949.49,1
+5151,122,Ocho Rios Health Centre,Clinic,0,4,78113.67,1
+5152,132,Highgate New Testament Church,Church,0,2,20697.46,1
+5153,131,Oracabessa Type 3 Hospital,Hospital,0,2,27206.68,1
+5154,128,Portmore High School,School,0,3,58839.12,0
+5155,126,Old Harbour Bypass,Road,1,4,90525.02,0
+5156,137,Gordon Town All-Age School,School,0,1,9835.46,0
+5157,123,Discovery Bay Power Station,Power Station,1,3,63671.61,1
+5158,126,Old Harbour Reservoir,Water Plant,1,3,49386,1
+5159,107,St.Elizabeth Highway,Road,1,4,91984.48,0
+5160,117,Rocky Point Anglican Church,Church,0,3,38343.74,1
+5161,134,Port Royal River Bridge,Bridge,1,1,10866.08,1
+5162,119,Manchester All-Age School,School,0,3,57469,1
+5163,121,St.Ann's Bay Main Road,Road,1,3,55806.67,0
+5164,107,Lacovia Bypass,Road,1,4,104255.97,0
+5165,113,Duncans Police Station,Police Station,0,3,39493.8,0
+5166,103,Little London Baptist Church,Church,0,5,462966.81,0
+5167,122,Ocho Rios Health Centre,Clinic,0,3,42932.97,0
+5168,130,Annotto Bay River Bridge,Bridge,1,2,16352.25,0
+5169,124,Brown's Town Police Station,Police Station,0,2,28017.55,1
+5170,108,Maggoty Clinic,Clinic,0,4,114622.67,0
+5171,119,Manchester River Bridge,Bridge,1,3,54680.39,1
+5172,118,Mandeville Regional Hospital,Hospital,0,2,19018.67,0
+5173,118,Mandeville Police Station,Police Station,0,3,58271.91,1
+5174,109,Montego Bay Pentecostal Church,Church,0,4,149398.68,0
+5175,130,Annotto Bay Pentecostal Church,Church,0,3,53233.53,1
+5176,117,Rocky Point Highway,Road,1,2,17554.27,1
+5177,137,Gordon Town Health Centre,Clinic,0,2,21062.57,1
+5178,111,Samuels Main Road,Road,1,4,101758.52,0
+5179,126,Old Harbour Primary School,School,0,4,109757.08,1
+5180,137,Gordon Town Substation,Power Station,1,1,13514.25,1
+5181,127,Linstead High School,School,0,3,65381.98,1
+5182,135,Half-Way-Tree Police Station,Police Station,0,1,8046.79,1
+5183,117,Rocky Point Clinic,Clinic,0,4,135798.45,0
+5184,118,Mandeville Pentecostal Church,Church,0,4,118500.24,1
+5185,107,Lacovia Baptist Church,Church,0,4,81709.92,0
+5186,108,Maggoty All-Age School,School,0,5,342335.34,0
+5187,129,Port Maria Clinic,Clinic,0,4,110491.35,1
+5188,103,Little London Health Centre,Clinic,0,4,119567.04,0
+5189,104,Hanover Hospital,Hospital,0,4,106784.03,0
+5190,136,Bull Bay Pump Station,Water Plant,1,1,14948.66,0
+5191,143,Bath Police Station,Police Station,0,1,6422.49,1
+5192,126,Old Harbour Water Treatment Plant,Water Plant,1,4,135117.62,0
+5193,124,Brown's Town Type 3 Hospital,Hospital,0,4,104086.67,1
+5194,138,Port Antonio Clinic,Clinic,0,2,23995.69,1
+5195,133,Kingston Clinic,Clinic,0,1,13275.38,1
+5196,138,Port Antonio Highway,Road,1,1,9813.44,0
+5197,134,Port Royal Reservoir,Water Plant,1,2,19304.04,0
+5198,126,St.Catherine Pump Station,Water Plant,1,4,78778.9,0
+5199,136,Bull Bay Parochial Road,Road,1,3,38432.89,0
+5200,123,Discovery Bay Anglican Church,Church,0,3,51660.63,1
+5201,136,Bull Bay Primary School,School,0,2,30700.33,1
+5202,103,Little London High School,School,0,3,50316.11,1
+5203,109,Montego Bay Police Station,Police Station,0,3,51151.71,1
+5204,124,St.Ann Reservoir,Water Plant,1,4,75332.16,0
+5205,106,Santa Cruz All-Age School,School,0,5,164585.52,0
+5206,118,Mandeville High School,School,0,2,29326.47,1
+5207,120,Alligator Pond Hospital,Hospital,0,2,29750.17,0
+5208,130,St.Mary Church of God,Church,0,3,41481.84,1
+5209,118,Mandeville Police Station,Police Station,0,2,30287.45,1
+5210,114,Clarks Town Water Treatment Plant,Water Plant,1,3,61922.81,0
+5211,131,Oracabessa Parochial Road,Road,1,3,56525.45,0
+5212,136,Bull Bay High School,School,0,2,15839.02,0
+5213,142,Yallahs Main Road,Road,1,2,27037.63,0
+5214,124,Brown's Town Water Treatment Plant,Water Plant,1,2,17561.91,1
+5215,103,Little London Parochial Road,Road,1,5,480076.54,0
+5216,115,May Pen Clinic,Clinic,0,2,17430.03,1
+5217,120,Alligator Pond Health Centre,Clinic,0,3,65147.95,1
+5218,135,Half-Way-Tree New Testament Church,Church,0,2,30100.84,1
+5219,114,Clarks Town Reservoir,Water Plant,1,5,494634.41,1
+5220,143,Bath Anglican Church,Church,0,3,40768.52,1
+5221,111,Samuels Pentecostal Church,Church,0,5,406480.54,0
+5222,115,May Pen Gully Bridge,Bridge,1,3,52792.62,0
+5223,102,Negril River Bridge,Bridge,1,3,57270.2,1
+5224,105,Black River Anglican Church,Church,0,4,128116.94,1
+5225,127,St.Catherine Fire Station,Fire Station,0,2,23029.89,1
+5226,110,Rose Hall High School,School,0,4,98430.77,0
+5227,127,Linstead High School,School,0,4,72824.91,0
+5228,134,Port Royal Pump Station,Water Plant,1,1,7024.81,1
+5229,132,Highgate Anglican Church,Church,0,4,99464.76,0
+5230,143,Bath Clinic,Clinic,0,2,32723.92,1
+5231,135,Half-Way-Tree River Bridge,Bridge,1,2,15064.37,0
+5232,103,Little London Main Road,Road,1,4,121386.04,0
+5233,111,St.James Parochial Road,Road,1,4,118279.01,0
+5234,128,St.Catherine All-Age School,School,0,3,63876.73,1
+5235,136,Bull Bay Bypass,Road,1,1,5585.51,1
+5236,135,Half-Way-Tree Bypass,Road,1,2,23803.98,1
+5237,124,Brown's Town Highway,Road,1,2,19412.24,1
+5238,144,Welchtown All-Age School,School,0,1,14331.13,0
+5239,140,Norwich River Bridge,Bridge,1,2,23198.1,0
+5240,110,Rose Hall Bypass,Road,1,3,47678.24,0
+5241,114,Clarks Town Fire Station,Fire Station,0,5,254553.95,0
+5242,118,Mandeville Church of God,Church,0,4,139818.42,0
+5243,107,Lacovia Highway,Road,1,5,196717.99,0
+5244,121,St.Ann's Bay Police Station,Police Station,0,3,52376.14,1
+5245,115,May Pen High School,School,0,2,18178.16,1
+5246,109,Montego Bay Church of God,Church,0,5,248765.48,0
+5247,109,Montego Bay Police Station,Police Station,0,4,89963.7,0
+5248,112,Falmouth Police Station,Police Station,0,5,320649.92,0
+5249,107,Lacovia River Bridge,Bridge,1,5,336347.24,0
+5250,122,Ocho Rios Health Centre,Clinic,0,4,71745.87,0
+5251,139,Buff Bay Pump Station,Water Plant,1,1,14633.94,1
+5252,130,St.Mary Main Road,Road,1,3,69345.4,1
+5253,123,St.Ann All-Age School,School,0,4,147760.43,1
+5254,112,Falmouth Gully Bridge,Bridge,1,4,88025.35,0
+5255,108,Maggoty Primary School,School,0,3,53318.68,1
+5256,112,Falmouth Church of God,Church,0,4,113483.06,0
+5257,123,Discovery Bay Anglican Church,Church,0,4,145655.85,0
+5258,144,Welchtown Gully Bridge,Bridge,1,2,24245.91,0
+5259,129,Port Maria Fire Station,Fire Station,0,3,63224.13,1
+5260,112,Falmouth Police Station,Police Station,0,3,44051.73,0
+5261,118,Mandeville Pentecostal Church,Church,0,3,42170.84,1
+5262,142,Yallahs High School,School,0,3,50793.38,0
+5263,128,St.Catherine Gully Bridge,Bridge,1,2,16304.09,0
+5264,143,Bath Bypass,Road,1,2,17109.47,1
+5265,139,Portland High School,School,0,3,42131.83,1
+5266,112,Falmouth Highway,Road,1,5,288589.67,0
+5267,109,Montego Bay Gully Bridge,Bridge,1,5,427641.47,0
+5268,124,Brown's Town Pentecostal Church,Church,0,3,66715.01,0
+5269,122,Ocho Rios Police Station,Police Station,0,3,41447.87,1
+5270,104,Lucea Primary School,School,0,4,76677.13,0
+5271,120,Alligator Pond High School,School,0,4,103420.88,0
+5272,117,Rocky Point All-Age School,School,0,4,140554.22,1
+5273,117,Rocky Point Reservoir,Water Plant,1,4,112191.97,0
+5274,126,Old Harbour All-Age School,School,0,4,84992.96,0
+5275,123,Discovery Bay Primary School,School,0,3,59858.5,1
+5276,130,Annotto Bay Pentecostal Church,Church,0,3,47522.94,1
+5277,135,Half-Way-Tree Main Bridge,Bridge,1,2,18475.23,1
+5278,115,May Pen Primary School,School,0,3,47177.95,1
+5279,135,Half-Way-Tree Anglican Church,Church,0,2,27418.57,1
+5280,123,Discovery Bay Parochial Road,Road,1,3,39419.27,0
+5281,122,Ocho Rios Water Treatment Plant,Water Plant,1,4,138458.98,1
+5282,108,Maggoty Main Road,Road,1,4,125532.05,0
+5283,128,Portmore Gully Bridge,Bridge,1,3,36161.63,1
+5284,111,Samuels Highway,Road,1,3,61812.27,1
+5285,117,Rocky Point Baptist Church,Church,0,3,58475.63,0
+5286,115,May Pen Pentecostal Church,Church,0,2,24207.17,1
+5287,143,Bath Church of God,Church,0,2,17214.41,0
+5288,125,Spanish Town Primary School,School,0,3,65041.96,1
+5289,110,Rose Hall Clinic,Clinic,0,4,147024.83,0
+5290,113,Duncans New Testament Church,Church,0,4,139820.31,0
+5291,138,Port Antonio Anglican Church,Church,0,1,12036.86,0
+5292,139,Buff Bay Fire Station,Fire Station,0,1,9687.68,1
+5293,127,Linstead Parochial Road,Road,1,4,138181.11,0
+5294,119,Christiana Clinic,Clinic,0,3,41486.56,1
+5295,137,St.Andrew Primary School,School,0,1,12945.78,1
+5296,136,Bull Bay All-Age School,School,0,2,16272.82,0
+5297,101,Savanna-la-Mar River Bridge,Bridge,1,5,457642.62,0
+5298,133,Kingston Anglican Church,Church,0,1,10717.72,1
+5299,143,Bath Police Station,Police Station,0,2,27038.47,0
+5300,118,Mandeville Parochial Road,Road,1,2,26833.94,1
+5301,126,St.Catherine Main Bridge,Bridge,1,2,22690.23,0
+5302,118,Manchester All-Age School,School,0,3,52719.31,0
+5303,133,Kingston Type 3 Hospital,Hospital,0,2,22237.06,1
+5304,138,Port Antonio Bypass,Road,1,2,34430.65,0
+5305,144,St.Thomas Primary School,School,0,2,20613.66,1
+5306,110,Rose Hall Highway,Road,1,5,268601.23,0
+5307,112,Trelawny Fire Station,Fire Station,0,4,93479.11,0
+5308,106,Santa Cruz Clinic,Clinic,0,4,79107.07,0
+5309,140,Portland Bypass,Road,1,2,32484.45,0
+5310,137,Gordon Town Main Bridge,Bridge,1,1,6314.89,0
+5311,107,Lacovia Power Station,Power Station,1,4,94749.82,0
+5312,135,Half-Way-Tree Police Station,Police Station,0,1,14550.61,1
+5313,110,Rose Hall Church of God,Church,0,3,56132.84,0
+5314,133,Kingston Police Station,Police Station,0,3,47916.86,0
+5315,106,St.Elizabeth Highway,Road,1,5,479604,0
+5316,107,Lacovia Clinic,Clinic,0,5,153545.91,0
+5317,114,Clarks Town Church of God,Church,0,4,139895.89,0
+5318,137,Gordon Town Main Road,Road,1,1,6205.58,1
+5319,111,Samuels Health Centre,Clinic,0,3,45326.42,0
+5320,131,Oracabessa Main Road,Road,1,2,17460.07,0
+5321,140,Norwich Hospital,Hospital,0,2,31912.09,1
+5322,108,Maggoty All-Age School,School,0,5,429433.12,0
+5323,119,Christiana Church of God,Church,0,3,67082.23,0
+5324,112,Falmouth Police Station,Police Station,0,4,126446.87,0
+5325,121,St.Ann Highway,Road,1,4,81407.53,0
+5326,106,Santa Cruz Baptist Church,Church,0,5,372915.81,0
+5327,101,Savanna-la-Mar All-Age School,School,0,4,94897.4,0
+5328,112,Falmouth Main Road,Road,1,5,308900.57,0
+5329,106,Santa Cruz Power Station,Power Station,1,4,72202.94,0
+5330,105,Black River High School,School,0,4,72476.46,0
+5331,107,Lacovia Police Station,Police Station,0,4,106681.84,0
+5332,122,Ocho Rios River Bridge,Bridge,1,3,68457.16,1
+5333,125,St.Catherine Regional Hospital,Hospital,0,2,31534.15,1
+5334,129,Port Maria Main Road,Road,1,2,22710.24,0
+5335,116,Chapelton Primary School,School,0,2,25834.1,1
+5336,111,Samuels Bypass,Road,1,3,41811.83,0
+5337,103,Little London Reservoir,Water Plant,1,5,353163.66,0
+5338,142,St.Thomas Police Station,Police Station,0,2,23880.87,0
+5339,139,Buff Bay New Testament Church,Church,0,2,32606.3,1
+5340,111,Samuels Highway,Road,1,3,36381.08,0
+5341,126,St.Catherine Primary School,School,0,3,66830.91,0
+5342,111,Samuels Health Centre,Clinic,0,4,79985.67,0
+5343,109,St.James Church of God,Church,0,3,68041.47,1
+5344,132,Highgate Police Station,Police Station,0,3,65224.16,0
+5345,141,Morant Bay Gully Bridge,Bridge,1,1,7857.84,1
+5346,142,Yallahs River Bridge,Bridge,1,2,26545.58,1
+5347,105,Black River Bypass,Road,1,5,220166.08,0
+5348,120,Alligator Pond Parochial Road,Road,1,2,32079.24,0
+5349,129,Port Maria Baptist Church,Church,0,3,50691.17,0
+5350,133,Kingston All-Age School,School,0,2,15382.32,1
+5351,102,Negril Police Station,Police Station,0,4,98697.24,0
+5352,116,Chapelton Anglican Church,Church,0,4,70709.06,0
+5353,105,St.Elizabeth Police Station,Police Station,0,5,408254.33,0
+5354,120,Manchester Fire Station,Fire Station,0,2,29809.52,0
+5355,103,Little London Parochial Road,Road,1,3,64607.25,1
+5356,139,Buff Bay Fire Station,Fire Station,0,2,16552.99,1
+5357,123,St.Ann Reservoir,Water Plant,1,2,17219.96,1
+5358,116,Chapelton Police Station,Police Station,0,3,45484.8,1
+5359,113,Trelawny Baptist Church,Church,0,5,291005.65,1
+5360,116,Chapelton High School,School,0,3,44835.16,1
+5361,113,Duncans Police Station,Police Station,0,4,108114.96,0
+5362,105,St.Elizabeth High School,School,0,5,376736.11,0
+5363,108,Maggoty Police Station,Police Station,0,4,105947.98,0
+5364,119,Christiana Water Treatment Plant,Water Plant,1,3,58891.6,0
+5365,104,Hanover Bypass,Road,1,5,200006.59,0
+5366,138,Port Antonio All-Age School,School,0,1,12753.46,1
+5367,134,Port Royal Parochial Road,Road,1,3,61202.58,0
+5368,102,Negril Police Station,Police Station,0,5,171941.37,0
+5369,141,Morant Bay Main Road,Road,1,1,13393.38,1
+5370,128,Portmore Bypass,Road,1,2,22204.68,0
+5371,121,St.Ann's Bay New Testament Church,Church,0,2,32837.44,0
+5372,103,Little London Primary School,School,0,3,59045.67,0
+5373,102,Negril Church of God,Church,0,3,35152.71,1
+5374,134,Port Royal Regional Hospital,Hospital,0,2,34320.95,0
+5375,139,Buff Bay Fire Station,Fire Station,0,1,7980.52,1
+5376,115,May Pen High School,School,0,3,52514.04,0
+5377,122,Ocho Rios Police Station,Police Station,0,4,74188.4,1
+5378,119,Manchester Primary School,School,0,2,31443.6,1
+5379,120,Alligator Pond Parochial Road,Road,1,4,124225.06,0
+5380,125,Spanish Town High School,School,0,2,17732.02,1
+5381,139,Buff Bay Bypass,Road,1,1,11448.33,1
+5382,128,Portmore Police Station,Police Station,0,3,37033.22,0
+5383,106,Santa Cruz Primary School,School,0,5,268070.94,0
+5384,118,Mandeville River Bridge,Bridge,1,4,109429.17,0
+5385,109,Montego Bay Health Centre,Clinic,0,5,487224.73,0
+5386,108,Maggoty Fire Station,Fire Station,0,5,420522.52,0
+5387,128,Portmore Highway,Road,1,2,34520.28,0
+5388,123,Discovery Bay Gully Bridge,Bridge,1,2,17404.14,0
+5389,122,St.Ann Fire Station,Fire Station,0,3,47183.35,1
+5390,104,Lucea Baptist Church,Church,0,5,158258.24,0
+5391,134,Port Royal Parochial Road,Road,1,3,62313.16,1
+5392,124,Brown's Town Substation,Power Station,1,3,42988.24,0
+5393,104,Lucea High School,School,0,4,146623.18,0
+5394,103,Little London Clinic,Clinic,0,5,176461.76,0
+5395,119,Manchester Baptist Church,Church,0,3,41854.16,1
+5396,124,Brown's Town Police Station,Police Station,0,4,134889.9,0
+5397,116,Clarendon Pentecostal Church,Church,0,4,97615.38,1
+5398,119,Manchester Health Centre,Clinic,0,3,66154.94,1
+5399,124,Brown's Town Clinic,Clinic,0,3,57082.26,0
+5400,143,Bath Baptist Church,Church,0,2,25593.19,0
+5401,119,Christiana Type 3 Hospital,Hospital,0,2,20494.08,0
+5402,118,Mandeville Health Centre,Clinic,0,4,105643.33,0
+5403,109,Montego Bay Main Road,Road,1,4,133451.43,0
+5404,121,St.Ann's Bay Clinic,Clinic,0,4,146114.38,0
+5405,116,Chapelton Substation,Power Station,1,3,54933.89,0
+5406,137,Gordon Town Anglican Church,Church,0,3,56782.01,0
+5407,127,St.Catherine Highway,Road,1,3,68029.56,1
+5408,109,Montego Bay Water Treatment Plant,Water Plant,1,3,40658.5,1
+5409,111,Samuels Primary School,School,0,5,347779.86,0
+5410,107,Lacovia Clinic,Clinic,0,3,35423.61,1
+5411,130,Annotto Bay Police Station,Police Station,0,3,57202.73,1
+5412,110,Rose Hall Pump Station,Water Plant,1,5,160209.42,0
+5413,125,Spanish Town Parochial Road,Road,1,4,93110.8,0
+5414,130,Annotto Bay Clinic,Clinic,0,3,36571.9,0
+5415,115,Clarendon Primary School,School,0,3,67144.93,1
+5416,129,Port Maria Main Road,Road,1,3,43785.05,1
+5417,116,Clarendon Substation,Power Station,1,2,19807.98,0
+5418,124,Brown's Town Substation,Power Station,1,3,36362.55,0
+5419,130,Annotto Bay Health Centre,Clinic,0,3,68266.07,0
+5420,117,Rocky Point Gully Bridge,Bridge,1,3,61557.17,0
+5421,118,Mandeville Parochial Road,Road,1,3,66239.54,0
+5422,124,Brown's Town Substation,Power Station,1,3,42163.8,0
+5423,101,Savanna-la-Mar All-Age School,School,0,3,42247.65,1
+5424,103,Little London High School,School,0,4,134870.29,0
+5425,122,St.Ann Police Station,Police Station,0,2,28872.36,0
+5426,125,Spanish Town Anglican Church,Church,0,3,44886.53,0
+5427,132,Highgate Health Centre,Clinic,0,3,35000.41,0
+5428,109,St.James Bypass,Road,1,5,256379.88,0
+5429,119,Christiana Type 3 Hospital,Hospital,0,3,60527.07,1
+5430,120,Alligator Pond Hospital,Hospital,0,2,29837.93,1
+5431,138,Port Antonio Anglican Church,Church,0,1,8252.95,1
+5432,112,Trelawny High School,School,0,5,287618.32,0
+5433,129,Port Maria Main Road,Road,1,3,37745.95,1
+5434,107,Lacovia Church of God,Church,0,3,55432.05,1
+5435,130,St.Mary Health Centre,Clinic,0,2,27031.08,1
+5436,121,St.Ann Primary School,School,0,3,52811.17,0
+5437,120,Alligator Pond All-Age School,School,0,2,28944.19,1
+5438,142,Yallahs Bypass,Road,1,3,65159.18,1
+5439,108,Maggoty River Bridge,Bridge,1,5,449788.03,0
+5440,136,Bull Bay Bypass,Road,1,1,12011.7,1
+5441,115,Clarendon All-Age School,School,0,2,18260.71,0
+5442,117,Rocky Point Baptist Church,Church,0,4,126295.98,0
+5443,117,Rocky Point Parochial Road,Road,1,3,59670.49,0
+5444,119,Manchester Regional Hospital,Hospital,0,3,52667.85,1
+5445,140,Norwich Main Road,Road,1,3,54344.75,0
+5446,129,Port Maria Baptist Church,Church,0,4,93203.64,1
+5447,118,Mandeville Clinic,Clinic,0,4,119989.93,0
+5448,102,Westmoreland Baptist Church,Church,0,5,168142.53,0
+5449,126,Old Harbour Main Road,Road,1,3,45737.18,0
+5450,131,Oracabessa Pentecostal Church,Church,0,2,29653.98,1
+5451,108,St.Elizabeth Primary School,School,0,5,169804.98,0
+5452,117,Rocky Point Baptist Church,Church,0,3,57460.7,0
+5453,104,Lucea High School,School,0,4,78109.83,0
+5454,112,Falmouth Baptist Church,Church,0,5,331545.35,0
+5455,107,Lacovia Primary School,School,0,3,38965.62,0
+5456,131,Oracabessa Police Station,Police Station,0,3,47128.35,0
+5457,120,Manchester Fire Station,Fire Station,0,2,24660.79,0
+5458,102,Negril Water Treatment Plant,Water Plant,1,4,76046.69,0
+5459,117,Rocky Point Baptist Church,Church,0,2,16841.34,1
+5460,102,Negril Clinic,Clinic,0,3,68775.54,0
+5461,129,Port Maria Pentecostal Church,Church,0,2,27200.15,1
+5462,125,Spanish Town Regional Hospital,Hospital,0,3,38706.7,1
+5463,103,Westmoreland Reservoir,Water Plant,1,5,395398.86,0
+5464,115,May Pen Bypass,Road,1,3,35538.82,1
+5465,127,Linstead Pump Station,Water Plant,1,4,137184.13,1
+5466,134,Port Royal Parochial Road,Road,1,1,11724.6,1
+5467,141,Morant Bay Police Station,Police Station,0,1,5926.25,1
+5468,125,Spanish Town River Bridge,Bridge,1,4,117156.32,1
+5469,136,Bull Bay Police Station,Police Station,0,1,11376.88,1
+5470,114,Clarks Town Fire Station,Fire Station,0,5,225042.27,0
+5471,117,Rocky Point Police Station,Police Station,0,2,19951.2,1
+5472,144,Welchtown Regional Hospital,Hospital,0,3,37840.22,1
+5473,136,St.Andrew Fire Station,Fire Station,0,1,13050.9,0
+5474,109,St.James Pentecostal Church,Church,0,5,173960.55,0
+5475,133,Kingston Main Road,Road,1,2,33415.33,1
+5476,102,Negril Police Station,Police Station,0,5,309020.9,0
+5477,116,Clarendon Parochial Road,Road,1,2,19967.67,0
+5478,121,St.Ann's Bay Clinic,Clinic,0,3,37240.22,1
+5479,140,Norwich Church of God,Church,0,3,45536.61,0
+5480,102,Negril Church of God,Church,0,4,131155.26,1
+5481,139,Buff Bay Fire Station,Fire Station,0,2,20204.73,1
+5482,109,Montego Bay Baptist Church,Church,0,5,389797.01,0
+5483,106,St.Elizabeth Main Road,Road,1,4,89996.56,0
+5484,105,Black River River Bridge,Bridge,1,5,426252.5,0
+5485,114,Clarks Town Main Bridge,Bridge,1,4,96139.4,0
+5486,142,Yallahs Main Road,Road,1,3,65671.18,1
+5487,132,Highgate River Bridge,Bridge,1,2,25062.65,1
+5488,140,Norwich Main Road,Road,1,1,13379.08,1
+5489,128,Portmore Police Station,Police Station,0,4,125515.97,0
+5490,121,St.Ann Police Station,Police Station,0,4,127499.17,0
+5491,128,Portmore Police Station,Police Station,0,3,37924.4,0
+5492,120,Alligator Pond Substation,Power Station,1,3,47399.5,0
+5493,133,Kingston Anglican Church,Church,0,1,10192.25,1
+5494,138,Port Antonio Health Centre,Clinic,0,1,7342.03,1
+5495,113,Duncans Main Road,Road,1,4,125714.38,0
+5496,128,Portmore Church of God,Church,0,3,49418.53,0
+5497,123,Discovery Bay Primary School,School,0,3,56197.33,0
+5498,127,Linstead All-Age School,School,0,2,28841.47,1
+5499,131,Oracabessa High School,School,0,4,71449.92,0
+5500,112,Falmouth Primary School,School,0,5,391021.07,0
+5501,101,Savanna-la-Mar All-Age School,School,0,5,442641.2,0
+5502,133,Kingston Substation,Power Station,1,2,31866.52,0
+5503,105,Black River Main Bridge,Bridge,1,4,140604.79,1
+5504,143,Bath Baptist Church,Church,0,3,63123.82,0
+5505,133,Kingston New Testament Church,Church,0,2,32547.01,0
+5506,133,Kingston Parochial Road,Road,1,1,5665.65,1
+5507,125,Spanish Town New Testament Church,Church,0,4,95692.97,0
+5508,107,Lacovia Police Station,Police Station,0,5,312483.48,0
+5509,134,Port Royal Pump Station,Water Plant,1,3,59806.8,1
+5510,134,Port Royal Fire Station,Fire Station,0,2,24679.79,0
+5511,112,Falmouth Highway,Road,1,5,423685.99,0
+5512,110,Rose Hall Fire Station,Fire Station,0,4,81225.96,0
+5513,114,Clarks Town Pentecostal Church,Church,0,5,461643.33,0
+5514,143,Bath River Bridge,Bridge,1,3,61555.04,1
+5515,101,Savanna-la-Mar Primary School,School,0,3,57133.7,0
+5516,103,Little London River Bridge,Bridge,1,3,42078.9,1
+5517,131,Oracabessa Main Road,Road,1,3,66774.35,0
+5518,126,Old Harbour Fire Station,Fire Station,0,4,135746.48,1
+5519,105,Black River New Testament Church,Church,0,5,478673.97,0
+5520,115,May Pen Police Station,Police Station,0,2,21490.24,0
+5521,141,St.Thomas Baptist Church,Church,0,2,26906.07,1
+5522,132,Highgate Water Treatment Plant,Water Plant,1,3,41570.28,1
+5523,111,Samuels Church of God,Church,0,5,161786.74,0
+5524,137,Gordon Town Bypass,Road,1,3,54506.8,0
+5525,108,Maggoty Clinic,Clinic,0,5,465336.31,0
+5526,143,Bath Police Station,Police Station,0,2,31508.31,0
+5527,131,Oracabessa Power Station,Power Station,1,3,69961.24,0
+5528,141,Morant Bay New Testament Church,Church,0,1,13066.65,0
+5529,115,May Pen High School,School,0,2,17601.61,0
+5530,107,Lacovia Fire Station,Fire Station,0,5,155033.51,0
+5531,120,Alligator Pond High School,School,0,4,73115.04,0
+5532,123,Discovery Bay Regional Hospital,Hospital,0,4,139154.66,0
+5533,104,Lucea Highway,Road,1,5,397588.95,0
+5534,106,Santa Cruz Primary School,School,0,4,144254.57,0
+5535,104,Lucea Main Road,Road,1,5,493391.27,0
+5536,127,Linstead Main Bridge,Bridge,1,4,117452.66,0
+5537,124,Brown's Town Highway,Road,1,4,99849.81,1
+5538,133,Kingston Anglican Church,Church,0,1,6673.57,1
+5539,121,St.Ann's Bay Police Station,Police Station,0,3,57257.91,0
+5540,125,St.Catherine Highway,Road,1,2,24103.44,1
+5541,142,Yallahs Police Station,Police Station,0,3,56339.41,0
+5542,106,St.Elizabeth Primary School,School,0,5,290660.52,1
+5543,111,Samuels Fire Station,Fire Station,0,4,143704.6,0
+5544,124,Brown's Town Police Station,Police Station,0,3,36819.63,0
+5545,139,Buff Bay Baptist Church,Church,0,2,27136.94,1
+5546,114,Clarks Town Clinic,Clinic,0,4,85732.29,0
+5547,128,St.Catherine Clinic,Clinic,0,2,31052.81,1
+5548,108,Maggoty High School,School,0,5,171837.92,0
+5549,113,Duncans Parochial Road,Road,1,4,135357.91,0
+5550,134,Port Royal Health Centre,Clinic,0,2,16702.07,0
+5551,116,Chapelton Pentecostal Church,Church,0,3,44399.68,0
+5552,114,Clarks Town Pentecostal Church,Church,0,5,303909.17,0
+5553,130,Annotto Bay Water Treatment Plant,Water Plant,1,3,46418.89,1
+5554,132,Highgate Parochial Road,Road,1,3,47436.19,1
+5555,119,Christiana Bypass,Road,1,4,97411.61,0
+5556,139,Buff Bay Baptist Church,Church,0,2,16654.74,0
+5557,104,Lucea Clinic,Clinic,0,3,55324.47,0
+5558,139,Buff Bay New Testament Church,Church,0,1,11239.98,1
+5559,104,Lucea New Testament Church,Church,0,5,310451,0
+5560,105,Black River Parochial Road,Road,1,5,451771.04,0
+5561,101,Savanna-la-Mar Police Station,Police Station,0,5,461331.76,0
+5562,143,Bath Police Station,Police Station,0,1,8714.67,0
+5563,114,Clarks Town Anglican Church,Church,0,3,47649.13,1
+5564,102,Negril Fire Station,Fire Station,0,3,61685.64,0
+5565,120,Alligator Pond Baptist Church,Church,0,3,54870.46,0
+5566,141,Morant Bay Fire Station,Fire Station,0,2,19596.53,0
+5567,113,Trelawny Pump Station,Water Plant,1,4,92291.45,0
+5568,115,May Pen Clinic,Clinic,0,3,44999.76,1
+5569,107,Lacovia Parochial Road,Road,1,5,278586.76,0
+5570,126,Old Harbour Main Road,Road,1,3,64579.23,1
+5571,130,Annotto Bay Police Station,Police Station,0,3,42637.26,1
+5572,126,Old Harbour Water Treatment Plant,Water Plant,1,3,65473.42,0
+5573,135,Half-Way-Tree Highway,Road,1,1,12502.66,1
+5574,137,St.Andrew Pentecostal Church,Church,0,2,33414.79,0
+5575,118,Mandeville Power Station,Power Station,1,4,107303.95,0
+5576,112,Falmouth Primary School,School,0,5,499845.2,0
+5577,143,Bath Primary School,School,0,1,12694.49,1
+5578,140,Norwich Highway,Road,1,3,52870.33,1
+5579,125,Spanish Town Substation,Power Station,1,3,36758.51,1
+5580,131,Oracabessa All-Age School,School,0,2,31783.61,1
+5581,139,Buff Bay Police Station,Police Station,0,2,15992.29,1
+5582,110,Rose Hall Pentecostal Church,Church,0,5,287232.75,0
+5583,132,Highgate Highway,Road,1,3,62047,0
+5584,128,Portmore Highway,Road,1,3,48556.29,0
+5585,108,St.Elizabeth Hospital,Hospital,0,5,270779.31,0
+5586,108,Maggoty Parochial Road,Road,1,4,144656.41,0
+5587,131,Oracabessa Type 3 Hospital,Hospital,0,2,28570,0
+5588,104,Lucea Parochial Road,Road,1,3,44711.26,0
+5589,128,St.Catherine Main Bridge,Bridge,1,2,29321,0
+5590,105,Black River Substation,Power Station,1,3,37762.88,1
+5591,141,Morant Bay New Testament Church,Church,0,1,8433.87,0
+5592,138,Port Antonio Anglican Church,Church,0,2,16236.17,1
+5593,114,Clarks Town Church of God,Church,0,3,50635.01,1
+5594,104,Hanover Police Station,Police Station,0,4,130309.45,0
+5595,114,Clarks Town All-Age School,School,0,5,152407.29,0
+5596,118,Manchester Clinic,Clinic,0,3,49391.91,0
+5597,121,St.Ann's Bay Anglican Church,Church,0,3,45985.73,0
+5598,136,Bull Bay Water Treatment Plant,Water Plant,1,1,6906.1,1
+5599,102,Negril Police Station,Police Station,0,3,53600.92,1
+5600,129,Port Maria Church of God,Church,0,2,26921.64,1
+5601,119,Christiana River Bridge,Bridge,1,2,33048.26,1
+5602,101,Westmoreland New Testament Church,Church,0,4,122562.44,0
+5603,131,Oracabessa Bypass,Road,1,2,21535.89,1
+5604,132,Highgate Primary School,School,0,2,26537.15,1
+5605,110,Rose Hall Anglican Church,Church,0,3,55819.66,1
+5606,122,St.Ann Police Station,Police Station,0,3,38614.28,1
+5607,137,Gordon Town Main Road,Road,1,1,7963.58,1
+5608,143,Bath River Bridge,Bridge,1,1,14697.24,0
+5609,135,Half-Way-Tree Baptist Church,Church,0,2,24158.58,1
+5610,117,Rocky Point Pentecostal Church,Church,0,3,63824.33,0
+5611,107,Lacovia Anglican Church,Church,0,3,63200.01,0
+5612,130,Annotto Bay All-Age School,School,0,3,51874.62,0
+5613,111,Samuels Clinic,Clinic,0,5,310693.41,0
+5614,129,Port Maria Anglican Church,Church,0,2,33651.1,1
+5615,139,Buff Bay Highway,Road,1,3,51645.87,0
+5616,101,Savanna-la-Mar Parochial Road,Road,1,5,173957.66,1
+5617,140,Portland Police Station,Police Station,0,1,9176.67,1
+5618,109,Montego Bay High School,School,0,4,102256.62,0
+5619,125,Spanish Town Pentecostal Church,Church,0,4,90426.91,1
+5620,141,Morant Bay High School,School,0,2,23263.45,1
+5621,144,Welchtown Health Centre,Clinic,0,1,8952.59,0
+5622,142,Yallahs Parochial Road,Road,1,1,9191.83,1
+5623,140,Norwich Fire Station,Fire Station,0,1,10024.27,1
+5624,141,St.Thomas Main Road,Road,1,2,33328.41,0
+5625,107,Lacovia Type 3 Hospital,Hospital,0,5,406023.76,0
+5626,101,Westmoreland Clinic,Clinic,0,4,113223.72,0
+5627,133,Kingston High School,School,0,2,22580.81,0
+5628,115,May Pen Fire Station,Fire Station,0,3,45796.39,0
+5629,131,Oracabessa Health Centre,Clinic,0,2,20439.97,1
+5630,127,Linstead Health Centre,Clinic,0,2,29567.42,1
+5631,137,Gordon Town High School,School,0,2,23004.25,1
+5632,122,Ocho Rios Regional Hospital,Hospital,0,4,125043.64,0
+5633,122,Ocho Rios Highway,Road,1,3,56796.37,0
+5634,104,Hanover Fire Station,Fire Station,0,4,83674.91,1
+5635,135,Half-Way-Tree Bypass,Road,1,1,12572.83,0
+5636,142,Yallahs All-Age School,School,0,2,28234.37,1
+5637,143,Bath Church of God,Church,0,2,31698.94,1
+5638,109,St.James Regional Hospital,Hospital,0,4,74049.8,0
+5639,107,Lacovia Anglican Church,Church,0,4,116660.19,0
+5640,103,Little London Highway,Road,1,4,117068.18,0
+5641,106,Santa Cruz Regional Hospital,Hospital,0,3,44633.37,1
+5642,129,Port Maria All-Age School,School,0,3,54245.4,0
+5643,130,Annotto Bay New Testament Church,Church,0,2,31112.98,1
+5644,108,St.Elizabeth New Testament Church,Church,0,4,96996.34,1
+5645,139,Buff Bay Church of God,Church,0,1,5835.25,0
+5646,141,Morant Bay Police Station,Police Station,0,3,48810.03,0
+5647,123,Discovery Bay Police Station,Police Station,0,3,61605.63,1
+5648,134,Port Royal Highway,Road,1,2,22221.49,1
+5649,125,St.Catherine Bypass,Road,1,3,59400.73,0
+5650,134,Port Royal Bypass,Road,1,2,32721.72,1
+5651,115,May Pen Bypass,Road,1,2,19810.63,1
+5652,132,Highgate Bypass,Road,1,3,40471.09,1
+5653,143,Bath Health Centre,Clinic,0,2,20412.88,1
+5654,115,May Pen All-Age School,School,0,3,62783.63,0
+5655,144,Welchtown Police Station,Police Station,0,2,20788.79,1
+5656,116,Chapelton Health Centre,Clinic,0,2,21605.69,1
+5657,109,Montego Bay Bypass,Road,1,4,114495.26,1
+5658,127,Linstead All-Age School,School,0,3,36404.86,1
+5659,123,Discovery Bay Primary School,School,0,3,61787.72,0
+5660,129,Port Maria Anglican Church,Church,0,3,69270.3,1
+5661,113,Duncans Water Treatment Plant,Water Plant,1,4,118252.01,0
+5662,118,Manchester Bypass,Road,1,4,131486.51,0
+5663,133,Kingston Fire Station,Fire Station,0,2,19666.66,1
+5664,113,Duncans Reservoir,Water Plant,1,4,137955.71,0
+5665,104,Lucea High School,School,0,3,51748.49,0
+5666,116,Clarendon Fire Station,Fire Station,0,2,15273.65,0
+5667,123,Discovery Bay Police Station,Police Station,0,2,23527.97,0
+5668,118,Manchester All-Age School,School,0,2,34306.05,1
+5669,144,Welchtown Church of God,Church,0,1,10639.2,1
+5670,114,Clarks Town Power Station,Power Station,1,4,81462.52,0
+5671,104,Lucea Health Centre,Clinic,0,3,59424.15,1
+5672,119,Christiana Highway,Road,1,4,93665.93,1
+5673,113,Duncans Main Road,Road,1,3,58164.21,1
+5674,133,Kingston Hospital,Hospital,0,2,29575.56,1
+5675,138,Port Antonio High School,School,0,2,17691.53,0
+5676,116,Chapelton Baptist Church,Church,0,4,128315.14,1
+5677,122,Ocho Rios Primary School,School,0,2,15000.61,1
+5678,127,Linstead Police Station,Police Station,0,3,64790.28,0
+5679,110,Rose Hall Clinic,Clinic,0,5,362497.35,0
+5680,144,St.Thomas All-Age School,School,0,3,38323.78,1
+5681,131,Oracabessa Police Station,Police Station,0,4,112549.74,0
+5682,110,St.James Parochial Road,Road,1,4,96155.28,1
+5683,140,Norwich Police Station,Police Station,0,1,9027.04,1
+5684,136,Bull Bay Primary School,School,0,2,17566.52,0
+5685,105,St.Elizabeth Police Station,Police Station,0,5,366710.46,0
+5686,138,Port Antonio Main Bridge,Bridge,1,2,15513.79,1
+5687,116,Chapelton All-Age School,School,0,3,39394.24,0
+5688,140,Norwich High School,School,0,1,9784.91,1
+5689,112,Falmouth Police Station,Police Station,0,5,373220.95,0
+5690,121,St.Ann's Bay Bypass,Road,1,2,15831.58,0
+5691,122,Ocho Rios Substation,Power Station,1,3,66427.74,1
+5692,110,St.James All-Age School,School,0,4,107294.53,0
+5693,121,St.Ann's Bay Highway,Road,1,3,47551.76,0
+5694,137,Gordon Town Clinic,Clinic,0,1,8157.73,0
+5695,127,St.Catherine Health Centre,Clinic,0,2,22918.74,1
+5696,142,Yallahs Reservoir,Water Plant,1,2,20017.58,1
+5697,142,Yallahs Main Road,Road,1,1,8778.39,1
+5698,106,Santa Cruz Baptist Church,Church,0,4,98378.28,0
+5699,143,Bath Regional Hospital,Hospital,0,1,6151.46,1
+5700,105,Black River Bypass,Road,1,4,135097.87,0
+5701,117,Rocky Point New Testament Church,Church,0,3,40300.13,1
+5702,113,Duncans All-Age School,School,0,3,46832.95,1
+5703,139,Buff Bay Highway,Road,1,1,6626.61,1
+5704,103,Little London Baptist Church,Church,0,3,55194.36,0
+5705,104,Lucea Bypass,Road,1,3,54804.77,1
+5706,111,Samuels Fire Station,Fire Station,0,5,358487.94,0
+5707,134,Port Royal Fire Station,Fire Station,0,1,5806.15,1
+5708,121,St.Ann's Bay Bypass,Road,1,4,136292.23,1
+5709,136,Bull Bay High School,School,0,1,7770.69,1
+5710,137,Gordon Town Police Station,Police Station,0,2,29441.32,1
+5711,117,Rocky Point Main Road,Road,1,3,58528.77,1
+5712,132,Highgate New Testament Church,Church,0,3,69388.24,1
+5713,105,Black River High School,School,0,4,121516.53,1
+5714,122,Ocho Rios Pentecostal Church,Church,0,3,66584.11,1
+5715,108,Maggoty Water Treatment Plant,Water Plant,1,4,136107.26,0
+5716,132,Highgate Clinic,Clinic,0,4,136074.58,0
+5717,127,Linstead Primary School,School,0,4,146635.67,0
+5718,103,Little London Police Station,Police Station,0,5,214693.44,0
+5719,116,Chapelton Substation,Power Station,1,2,27087.19,0
+5720,136,Bull Bay New Testament Church,Church,0,2,16602.11,1
+5721,120,Alligator Pond High School,School,0,4,101823.48,0
+5722,121,St.Ann's Bay Clinic,Clinic,0,2,22655.68,0
+5723,106,Santa Cruz Church of God,Church,0,3,55085.3,1
+5724,122,Ocho Rios Type 3 Hospital,Hospital,0,3,36704.32,1
+5725,106,Santa Cruz Main Bridge,Bridge,1,4,73646.81,0
+5726,144,Welchtown Main Road,Road,1,3,37701.56,0
+5727,120,Alligator Pond High School,School,0,2,25371.23,1
+5728,113,Duncans Regional Hospital,Hospital,0,5,344156.13,0
+5729,109,Montego Bay Main Bridge,Bridge,1,4,121345.56,0
+5730,142,Yallahs Substation,Power Station,1,1,9896.44,1
+5731,120,Alligator Pond Reservoir,Water Plant,1,2,34134.41,0
+5732,144,Welchtown Police Station,Police Station,0,3,38393.8,0
+5733,141,Morant Bay Police Station,Police Station,0,2,25938.58,1
+5734,110,Rose Hall Main Bridge,Bridge,1,4,149401.17,0
+5735,101,Savanna-la-Mar Bypass,Road,1,4,101946.61,0
+5736,116,Chapelton High School,School,0,4,96735.42,0
+5737,135,Half-Way-Tree Reservoir,Water Plant,1,1,9200.11,1
+5738,126,Old Harbour All-Age School,School,0,4,103265.49,0
+5739,113,Duncans Police Station,Police Station,0,4,80817.39,0
+5740,124,Brown's Town Main Bridge,Bridge,1,3,40555.79,0
+5741,144,Welchtown River Bridge,Bridge,1,2,34830.66,0
+5742,141,Morant Bay Hospital,Hospital,0,1,9838.03,1
+5743,138,Port Antonio Police Station,Police Station,0,2,24434.8,1
+5744,142,Yallahs Parochial Road,Road,1,2,15503.98,0
+5745,112,Falmouth Pump Station,Water Plant,1,4,133699.49,0
+5746,133,Kingston Police Station,Police Station,0,3,39661.37,0
+5747,102,Negril Fire Station,Fire Station,0,4,70517.15,0
+5748,135,Half-Way-Tree Primary School,School,0,2,29692.17,1
+5749,130,Annotto Bay Highway,Road,1,4,120054.55,0
+5750,114,Clarks Town Primary School,School,0,5,157897.58,0
+5751,113,Duncans Clinic,Clinic,0,3,66173.05,1
+5752,106,Santa Cruz Church of God,Church,0,5,213274.8,0
+5753,102,Negril Police Station,Police Station,0,5,344296.83,0
+5754,102,Negril Fire Station,Fire Station,0,4,76525.99,0
+5755,125,Spanish Town All-Age School,School,0,2,25361.55,1
+5756,135,Half-Way-Tree Gully Bridge,Bridge,1,2,15277.24,0
+5757,105,Black River River Bridge,Bridge,1,5,310481.5,0
+5758,132,Highgate All-Age School,School,0,3,58767.33,1
+5759,144,Welchtown Primary School,School,0,3,65791.33,0
+5760,140,Norwich Bypass,Road,1,2,20123.83,1
+5761,106,St.Elizabeth Health Centre,Clinic,0,3,43367.32,1
+5762,144,Welchtown New Testament Church,Church,0,1,8125.98,1
+5763,108,St.Elizabeth Police Station,Police Station,0,4,131268.69,0
+5764,113,Duncans Parochial Road,Road,1,5,405258.43,1
+5765,114,Clarks Town Hospital,Hospital,0,3,52655.96,0
+5766,116,Chapelton Police Station,Police Station,0,3,43127.86,0
+5767,144,Welchtown All-Age School,School,0,2,30667.74,1
+5768,102,Negril Bypass,Road,1,5,281836.75,0
+5769,107,Lacovia Reservoir,Water Plant,1,4,78721.09,0
+5770,138,Port Antonio Clinic,Clinic,0,3,65642.1,0

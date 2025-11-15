@@ -1,12 +1,20 @@
--- phpMyAdmin SQL Dump
--- version 5.2.0
--- https://www.phpmyadmin.net/
---
--- Host: 127.0.0.1
--- Generation Time: Nov 11, 2025 at 12:02 AM
--- Server version: 10.4.27-MariaDB
--- PHP Version: 8.2.0
+-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+-- COMP6720 Advanced Database Systems
+-- Assignment 3: Query Performance Analysis and Optimization
+-- Topic: Disaster Relief Management System
+-- Group Members: Christopher Morgan, Chris-San Williams, 
+-- Jelani Smith, Shanika Williams-Maxwell, Shaunna-Lee Edwards
+-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+-- -----------------------------------------------------------
+-- INITIAL SETUP
+-- -----------------------------------------------------------
+-- Enabling local file loading so we can import CSV files.
+SET GLOBAL local_infile = 1;
+SHOW GLOBAL VARIABLES LIKE 'local_infile';
+SHOW VARIABLES LIKE 'secure_file_priv';
+
+-- Setting up the session  
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
 SET time_zone = "+00:00";
@@ -17,48 +25,42 @@ SET time_zone = "+00:00";
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
 /*!40101 SET NAMES utf8mb4 */;
 
---
--- Database: `assignment3`
---
+-- -----------------------------------------------------------
+-- DATABASE SETUP AND SCHEMA CREATION
+-- -----------------------------------------------------------
+-- Creating and using the Disaster Relief Database if it doesn't exist
+CREATE DATABASE IF NOT EXISTS disaster_relief_db;  
+USE disaster_relief_db;
 
--- --------------------------------------------------------
+-- Dropping the tables if they exist in the order of foreign key dependencies.
+DROP TABLE IF EXISTS resource_allocation;
+DROP TABLE IF EXISTS relief_center;
+DROP TABLE IF EXISTS site;
+DROP TABLE IF EXISTS incident_report;
+DROP TABLE IF EXISTS community;
+DROP TABLE IF EXISTS parish;
+DROP TABLE IF EXISTS cash_donation;
+DROP TABLE IF EXISTS aid_organization;
 
---
--- Table structure for table `aidorganization`
---
 
-CREATE TABLE `aidorganization` (
-  `org_id` int(11) NOT NULL,
-  `org_name` varchar(100) NOT NULL,
-  `org_type` varchar(7) NOT NULL,
-  `country` varchar(50) NOT NULL
+-- Creating the aid_organization table to store organizations
+CREATE TABLE aid_organization (
+  org_id INT NOT NULL,
+  org_name VARCHAR(100) NOT NULL,
+  org_type VARCHAR(20) NOT NULL,
+  country VARCHAR(50) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
---
--- Dumping data for table `aidorganization`
---
-
-INSERT INTO `aidorganization` (`org_id`, `org_name`, `org_type`, `country`) VALUES
-(201, 'Jamaica Red Cross Society', 'NGO', 'Jamaica'),
-(202, 'Food for the Poor', 'NGO', 'Jamaica'),
-(203, 'Doctors Without Borders', 'Foreign', 'France'),
-(204, 'Jamaica Aid Group', 'Foreign', 'United Kingdom'),
-(205, 'Help Jamaica! e.V.', 'Foreign', 'Germany'),
-(206, 'SOS Children\'s Villages Jamaica', 'Foreign', 'Austria'),
-(207, 'Chalice', 'Foreign', 'Canada'),
-(208, 'Children of the Caribbean', 'Foreign', 'USA');
-
--- --------------------------------------------------------
-
---
--- Table structure for table `cashdonation`
---
-
-CREATE TABLE `cashdonation` (
-  `donation_id` int(11) NOT NULL,
-  `org_id` int(11) NOT NULL,
-  `amount` double NOT NULL,
-  `donation_date` date NOT NULL
+-- Creating the cash_donation table to record monetary contributions
+CREATE TABLE cash_donation (
+   donation_id INT NOT NULL,
+  org_id INT NOT NULL,
+  amount DECIMAL(18,2) NOT NULL,
+  donation_date DATE NOT NULL,
+  PRIMARY KEY (donation_id),
+    CONSTRAINT fk_cash_donation_org
+        FOREIGN KEY (org_id)
+        REFERENCES aid_organization (org_id)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
